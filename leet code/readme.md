@@ -1,2 +1,2 @@
-# leetcode ½m²ß
-- 1. Design Linked List: https://leetcode.com/problems/design-linked-list/
+# leetcode ç·´ç¿’
+- 1. Design Linked List: [å‰å¾€](https://leetcode.com/problems/design-linked-list/)
