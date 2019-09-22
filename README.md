@@ -6,7 +6,7 @@
 * 演算法課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
 
 # About me
-> 大家好我是可愛的大學生! 大家都叫我**「熊」**
+> 大家好我是可愛的大學生! 大家都叫我>>**熊**
 
 ### **何彥南** (aaron)
 * 就讀於: Soochow University (東吳大學)
