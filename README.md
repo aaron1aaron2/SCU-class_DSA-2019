@@ -3,7 +3,9 @@
 > 歡迎來到我的學習筆記! 
 > 這邊有所有我練習的程式碼。
 
-* 演算法課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
+* 課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
+* 演算法筆記:
+  *  linked-list [前往]
 
 # About me
 > 大家好我是可愛的大學生! 大家都叫我>>**熊**
