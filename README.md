@@ -7,7 +7,7 @@
   *  [linked-list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)
 
 # About me
-> 大家好我是可愛的大學生! 大家都叫我>>**熊**
+> 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
 
 ### **何彥南** (aaron)
 * 就讀於: Soochow University (東吳大學)
@@ -15,7 +15,7 @@
 * 生日: 1998/11/26
 * 星座: 射手座
 * 興趣: 打羽球
-* 綽號: 荷花、熊
+* 綽號: 荷花、熊、187
 * 擅長程式: python 
 
 > 下面附上一隻熊
