@@ -5,7 +5,7 @@
 
 * 課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
 * 演算法筆記:
-  *  linked-list [前往]
+  *  [linked-list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)
 
 # About me
 > 大家好我是可愛的大學生! 大家都叫我>>**熊**
