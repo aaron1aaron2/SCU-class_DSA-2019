@@ -4,7 +4,7 @@
 
 演算法課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
 
-![bear|50x50](image/bear.jpg)
+![50x50](image/bear.jpg)
 
 * 測試一下照片功能
 
