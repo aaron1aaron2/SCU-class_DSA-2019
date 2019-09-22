@@ -3,7 +3,6 @@
 > 歡迎來到我的學習筆記! 
 > 這邊有所有我練習的程式碼。
 
-* 課程筆記 [前往](https://hackmd.io/eyI8SlFBTmqZjkdSEgQb-g)
 * 演算法筆記:
   *  [linked-list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)
 
