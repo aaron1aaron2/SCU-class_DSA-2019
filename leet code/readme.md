@@ -3,5 +3,5 @@
 ## Easy
 ### 1. Design Linked List: 
 > [題目](https://leetcode.com/problems/design-linked-list/)
-
+![](Submmits/Design-Linked-List.PNG)
 
