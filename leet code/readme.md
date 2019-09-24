@@ -3,5 +3,6 @@
 ## Easy
 ### 1. Design Linked List: 
 > [題目](https://leetcode.com/problems/design-linked-list/)
-![](Submitted/Design-Linked-List_1.PNG)
+#### 這是我第一次練習的結果，速度有點慢，還有許多需要加強的空間
+![](/leet%20code/Submitted/Design_Linked_List_1.PNG)
 
