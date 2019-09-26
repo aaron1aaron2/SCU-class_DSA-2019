@@ -86,9 +86,7 @@
 - 程式: python 、R、SAS、julia
 
 ## 資料科學家所要具備的能力
-[資料科學家的一天](https://www.simplilearn.com/a-day-in-the-life-of-a-data-scientist-article)
+> 大家可以參考這篇: [資料科學家的一天](https://www.simplilearn.com/a-day-in-the-life-of-a-data-scientist-article)
 
 ## 有甚麼工作可以做
-> 最後就來點現實點的，你以後要做甚麼? 這也是我實習主管提醒我的話，希望也分享給大家。
-
-附上這篇PPT上的文章: [看文章](https://www.ptt.cc/bbs/Soft_Job/M.1568999938.A.30F.html)
+> 最後就來點現實點的，你以後要做甚麼? 這也是我實習主管提醒我的話，希望也分享給大家。[看文章](https://www.ptt.cc/bbs/Soft_Job/M.1568999938.A.30F.html)
