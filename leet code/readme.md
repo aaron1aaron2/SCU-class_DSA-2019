@@ -9,4 +9,4 @@
 ### 2. Min Stack
 > [題目](https://leetcode.com/problems/min-stack/)
 #### 這邊我都測試過了，功能都正常，只是因為用linked-list 有時間限制，所以在 leetcode 上沒辦法 summit。
-> [我的解答(linked-list)]()
+> [我的解答(linked-list)](/leet code/Min Stack(linked-list))
