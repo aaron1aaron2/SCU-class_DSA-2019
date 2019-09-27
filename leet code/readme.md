@@ -13,6 +13,6 @@
 ### 2. Min Stack
 > [題目](https://leetcode.com/problems/min-stack/)
 
-這邊我都測試過了，功能都正常，只是因為用linked-list 有時間限制，所以在 leetcode 上沒辦法 summit。
+這邊我都測試過了，功能都正常，只是因為題目原本是用list，在這邊我用 linked-list 建構會超出時機限制，所以在 leetcode 上沒辦法 summit。
 
 > [我的解答(linked-list)](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Min%20Stack(linked-list))
