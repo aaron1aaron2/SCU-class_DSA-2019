@@ -4,7 +4,8 @@
 > 這邊有所有我練習的程式碼。
 
 * 演算法筆記:
-  *  [linked-list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)
+  * [linked-list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)
+  * [Stack & Queue](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/Sy-f4lsDS)
 
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
