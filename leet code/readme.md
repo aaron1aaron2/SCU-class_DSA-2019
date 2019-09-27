@@ -20,3 +20,6 @@
 > [我的解答(list)](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Min%20Stack.py)
 
 ![](/leet%20code/Submitted/Min-Stack.PNG)
+
+### 3. Implement Queue using Stacks
+>[題目](https://leetcode.com/problems/implement-queue-using-stacks/)
