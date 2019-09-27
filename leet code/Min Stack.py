@@ -1,4 +1,3 @@
-# use linked list
 class MinStack:
 
     def __init__(self):
