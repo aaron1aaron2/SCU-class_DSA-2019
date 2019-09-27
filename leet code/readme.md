@@ -4,6 +4,7 @@
 ### 1. Design Linked List
 > [題目](https://leetcode.com/problems/design-linked-list/)
 #### 這是我第一次練習的結果，速度有點慢，還有許多需要加強的空間
+> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design-Linked-List)
 ![](/leet%20code/Submitted/Design_Linked_List_1.PNG)
 
 ### 2. Min Stack
