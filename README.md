@@ -1,4 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 # Welcome to My-Learning-Note
 > 歡迎來到我的學習筆記! 
 > 這邊有所有我練習的程式碼。
