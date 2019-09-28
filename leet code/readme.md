@@ -6,7 +6,9 @@
 
 這是我第一次練習的結果，速度有點慢，還有許多需要加強的空間。
 
-> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design-Linked-List.py)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design-Linked-List.py)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/Design_Linked_List.ipynb)
 
 ![](/leet%20code/Submitted/Design_Linked_List_1.PNG)
 
