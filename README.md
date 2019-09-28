@@ -103,7 +103,7 @@
 - [搶當大數據科學家，5大特質你有嗎](https://www.bnext.com.tw/article/36144/BN-2015-05-02-182907-109)
 - [資料科學家的一天](https://www.simplilearn.com/a-day-in-the-life-of-a-data-scientist-article)
 
-> 這些特質
+> 你需要具備這些能力
 - [ ] 定義和釐清問題
 - [ ] 想像力
 - [ ] 邏輯思考能力
