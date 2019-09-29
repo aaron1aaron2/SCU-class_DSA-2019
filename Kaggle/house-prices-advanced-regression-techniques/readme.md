@@ -1,5 +1,4 @@
-# House 
-## House Prices: Advanced Regression Techniques
+# House Prices: Advanced Regression Techniques
 > dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 ## Dataset & problem
 ### 問題背景
@@ -95,5 +94,5 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 |SaleType| Type of sale
 |SaleCondition| Condition of sale
 
-## kc_house_data
+# kc_house_data
 > dataset : https://www.kaggle.com/shivachandel/kc-house-data
