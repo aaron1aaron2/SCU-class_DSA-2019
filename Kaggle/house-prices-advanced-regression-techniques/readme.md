@@ -2,10 +2,10 @@
 > dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 ## Dataset & problem
 ### 問題背景
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+要求購房者描述他們的夢想中的房子，他們可能不會優先想到 `地下室天花板的高度` 或 `與鐵路很近` 。
+但是，這場比賽的數據集證明，上述兩個變數對價格的影響比`房間數量`或 `有白色柵欄`的影響更大。
 
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
-
+這邊有 **79個特徵** 描述愛荷華州埃姆斯市住宅。包含各種面向，本次競賽要求您 **預測每個房屋的最終價格**。
 
 ### 目標
 #### >>> 預測每間房子的售價 `SalePrice`
