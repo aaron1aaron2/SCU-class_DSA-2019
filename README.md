@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=orange>
+<table><tr><td bgcolor=black>
 
 # Welcome to My-Learning-Note
 > 歡迎來到我的學習筆記! 
