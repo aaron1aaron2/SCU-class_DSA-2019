@@ -27,3 +27,4 @@
 >[題目](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ### 4. Two sum
+![](/leet%20code/Submitted/Two-sum.PNG)
