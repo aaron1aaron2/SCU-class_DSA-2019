@@ -16,7 +16,7 @@
 
 這邊我都測試過了，功能都正常，只是因為題目原本是用list，在這邊我用 linked-list 建構會超出時機限制，所以在 leetcode 上沒辦法 summit。
 
-> [我的解答(linked-list)](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Min%20Stack(linked-list).py)
+> [我的解答(linked-list)](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Min%20Stack%20(linked-list).py)
 
 於是我又寫了一個用 list 的解法，大家可以參考一下。
 
@@ -24,15 +24,12 @@
 
 ![](/leet%20code/Submitted/Min-Stack.PNG)
 
-### 3. Implement Queue using Stacks
->[題目](https://leetcode.com/problems/implement-queue-using-stacks/)
+### 3. Implement Queue using Stacks [前往](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ![](/leet%20code/Submitted/Two-sum.PNG)
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Implement%20Queue%20using%20Stacks.py)
 ---
 ## 練習
-### 4. Two sum
->[題目](https://leetcode.com/problems/two-sum/)
-
+### 4. Two sum [前往](https://leetcode.com/problems/two-sum/)
 ![](/leet%20code/Submitted/Implement-Queue-using-Stacks.PNG)
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Two%20sum.py)
