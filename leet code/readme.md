@@ -6,7 +6,7 @@
 
 這是我第一次練習的結果，速度有點慢，還有許多需要加強的空間。
 
-> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design Linked List.py)
+> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design%20Linked%20List.py)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/aaron1aaron2/6fa9da18d36145de92a8324225502d40/design-linked-list.ipynb)
 
@@ -26,11 +26,13 @@
 
 ### 3. Implement Queue using Stacks
 >[題目](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 ![](/leet%20code/Submitted/Two-sum.PNG)
-> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Implement Queue using Stacks.py)
+> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Implement%20Queue%20using%20Stacks.py)
 ---
 ## 練習
 ### 4. Two sum
 >[題目](https://leetcode.com/problems/two-sum/)
+
 ![](/leet%20code/Submitted/Implement-Queue-using-Stacks.PNG)
-> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Two sum.py)
+> [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Two%20sum.py)
