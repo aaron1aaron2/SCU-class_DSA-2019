@@ -5,4 +5,4 @@
 - [2018](https://cs50.harvard.edu/college/2018/fall/weeks/) -->最新完整
 - [2019](https://cs50.harvard.edu/college/) --> 還在更新
 
-### >>> 自學的部分位以2018 為主
+### >>> 自學的部分位以2018的課程為主
