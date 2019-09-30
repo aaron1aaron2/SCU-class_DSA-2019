@@ -13,9 +13,9 @@
 ### 欄位描述
 |column name|description|描述|
 |-|-|-|
-|SalePrice|the property's sale price in dollars. This is the target variable that you're trying to predict.|房屋售價(預測目標)
-|MSSubClass| The building class|房屋類別(樓層數、格局、新舊)
-|MSZoning| The general zoning classification|區域分類(農業區、工業區、高低密度住宅區)
+|SalePrice|the property's sale price in dollars. This is the target variable that you're trying to predict.|房屋售價(目標)
+|MSSubClass| The building class|房屋類別(樓層數、新舊)
+|MSZoning| The general zoning classification|區域分類(農、工業區)
 |LotFrontage|Linear feet of street connected to property|直線尺(街道與土地連接的長度)
 |LotArea| Lot size in square feet|坪數
 |Street|Type of road access
