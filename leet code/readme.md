@@ -8,7 +8,7 @@
 
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design%20Linked%20List.py)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/aaron1aaron2/6fa9da18d36145de92a8324225502d40/design-linked-list.ipynb)
+ 測試中 --> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/aaron1aaron2/6fa9da18d36145de92a8324225502d40/design-linked-list.ipynb)
 
 ![](/leet%20code/Submitted/Design_Linked_List_1.PNG)
 
