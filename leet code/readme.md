@@ -25,11 +25,10 @@
 ![](/leet%20code/Submitted/Min-Stack.PNG)
 
 ### 3. Implement Queue using Stacks [前往](https://leetcode.com/problems/implement-queue-using-stacks/)
-
-![](/leet%20code/Submitted/Two-sum.PNG)
+![](/leet%20code/Submitted/Implement-Queue-using-Stacks.PNG)
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Implement%20Queue%20using%20Stacks.py)
 ---
 ## 練習
 ### 4. Two sum [前往](https://leetcode.com/problems/two-sum/)
-![](/leet%20code/Submitted/Implement-Queue-using-Stacks.PNG)
+![](/leet%20code/Submitted/Two-sum.PNG)
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Two%20sum.py)
