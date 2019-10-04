@@ -8,9 +8,6 @@
 
 > [我的解答](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Design%20Linked%20List.py)
 
- 測試 --> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/aaron1aaron2/6fa9da18d36145de92a8324225502d40/design-linked-list.ipynb)
-
-
 ### 2. Min Stack [前往](https://leetcode.com/problems/min-stack/)
 
 這邊我都測試過了，功能都正常，只是因為題目原本是用list，在這邊我用 linked-list 建構會超出時機限制，所以在 leetcode 上沒辦法 summit。
