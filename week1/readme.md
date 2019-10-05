@@ -1,8 +1,6 @@
 # linked list
 ###### tags: `演算法` `資料結構`
 
-[toc]
-
 # 課堂
 ![](https://i.imgur.com/1Qc4uHD.png)
 > 圖片擷取至: [老師PPT](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
@@ -89,12 +87,13 @@ Ruby、JavaScript 和 Python屬於動態語言，所以我們不用花太多時�
 ](https://stackoverflow.com/questions/11564352/arraylist-vs-linkedlist-from-memory-allocation-perspective)
     * [what does O(N) mean [duplicate]](https://stackoverflow.com/questions/1909307/what-does-on-mean)
 # 練習
-### 1. Design Linked List 
-> 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
+### 1. Design Linked List  
+> 題目:[LeetCode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
+
+設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
 * `next` : 指向下一個 node 的 pointer。
 
-> 假設在 linked-List 中所有的 node 皆從 0 開始建立索引(index)。
 #### 需要建立的 function
 1. `get(index)` : 輸入 ***index*** 可以取得在 linked-List 裡對應的 ***val***。
 1. `addAtHead(val)` : 將輸入的 ***val*** 新增在 linked-List 的第一個位置。
@@ -106,7 +105,7 @@ Ruby、JavaScript 和 Python屬於動態語言，所以我們不用花太多時�
         * 當 ***index*** 為負數，將 ***val*** 插在第一個位置。
 5. `deleteAtIndex(index)` : 如果 ***index*** 在 linked-List 裡是有效的，刪除對應的 ***val***。
 
-> 題目來源: [LeetCode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
+> 題目來源:
 #### 我的想法
 > 要建立`兩個 class` 
 * 第一個: 當做節點(Node)，也就是每次呼叫他的時候，就相當於創立一個新的節點在 memory 裡面。可以看到每個 Node 包含 `self.val` (紀錄資料) 和 `self.next` (紀錄下一個Node)。
