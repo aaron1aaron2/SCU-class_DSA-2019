@@ -3,7 +3,18 @@
 > 這邊有所有我練習的程式碼。
 
 # 課堂筆記
-[week1](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1/readme.md) >>> linked-List
+
+- week1
+
+- [week2](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2) : linked-List
+
+- [week3](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3) : Stack & Queue
+
+- [week4](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) : set & Insertion Sort
+
+- week5
+
+- week6
 
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
