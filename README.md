@@ -10,7 +10,7 @@
 
 - week3: [Stack & Queue](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
 
-- week4: [set](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4/set.md) 、 [Insertion Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) 
+- week4: [set](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set) 、 [Insertion Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) 
 
 - week5
 
