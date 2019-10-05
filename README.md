@@ -3,7 +3,7 @@
 > 這邊有所有我練習的程式碼。
 
 # 課堂筆記
-week1
+[week1](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1/readme.md) >>> linked-List
 
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
