@@ -51,3 +51,7 @@
 # 練習
 ## Insertion Sort List
 > 題目: [ Leetcode | Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+
+---
+# Set
+###### tags: `演算法` `資料結構`
