@@ -6,11 +6,11 @@
 
 - week1
 
-- [week2](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2) : linked-List
+- week2: [linked-List](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
 
-- [week3](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3) : Stack & Queue
+- week3: [Stack & Queue](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
 
-- [week4](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) : set & Insertion Sort
+- week4: [set](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4/set.md) & [Insertion Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) 
 
 - week5
 
