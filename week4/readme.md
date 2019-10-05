@@ -22,7 +22,8 @@
 ### 穩定性(Stable/Unstable)：穩定(Stable)
 
 # 外部資料
-![](https://miro.medium.com/max/1023/1*_NOe6jL9veyR4yAyf85dzA.png)
+<img src="https://miro.medium.com/max/1023/1*_NOe6jL9veyR4yAyf85dzA.png" width="600" height="300">
+
 ### 步驟
 1. 第一個(最左邊)的數字直接做為已排序的頭。
 1. 將下一個值(右邊)作為基準值。
