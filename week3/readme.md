@@ -35,9 +35,10 @@
 
 ## Queue 
 <img src="https://i.imgur.com/RYR0bLH.png" width="350" height="250">
+
 簡單來講就是 `先插入的先刪除`(First in first out | FIFO), 可用來實現 **廣度優先搜尋**(Breadth-first search | BFS).
-* **Additions** (又稱: Enqueues) always add to the back of the line
-* **Removals** (又稱: Dequeues) always remove from the front of the line
+- **Additions** (又稱: Enqueues) always add to the back of the line
+- **Removals** (又稱: Dequeues) always remove from the front of the line
 > 用 list 實現基本的 queue 功能
 
 ```python=
