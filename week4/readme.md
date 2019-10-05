@@ -52,7 +52,9 @@
 # 練習
 ## Insertion Sort List
 > 題目: [ Leetcode | Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+
 Sort a linked list using insertion sort.
+
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif' weigh='500' height='200'>
 
 > A graphical example of insertion sort. The partial sorted list (black) initially contains only the first element in the list.
