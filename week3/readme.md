@@ -2,7 +2,8 @@
 ###### tags: `演算法` `資料結構`
 
 # 課堂
-![](https://i.imgur.com/ArHZkOR.png)
+<img src="https://i.imgur.com/ArHZkOR.png" width="600" height="250">
+
 > 擷取至: [老師的PPT](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 ## 為什麼要有 Stack?
 * 編譯器(word、sublime)的 undo 。
@@ -33,7 +34,7 @@
 # 外部資料
 
 ## Queue 
-![](https://i.imgur.com/RYR0bLH.png)
+<img src="https://i.imgur.com/RYR0bLH.png" width="350" height="250">
 簡單來講就是 `先插入的先刪除`(First in first out | FIFO), 可用來實現 **廣度優先搜尋**(Breadth-first search | BFS).
 * **Additions** (又稱: Enqueues) always add to the back of the line
 * **Removals** (又稱: Dequeues) always remove from the front of the line
