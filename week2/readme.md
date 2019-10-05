@@ -2,7 +2,8 @@
 ###### tags: `演算法` `資料結構`
 
 # 課堂
-![](https://i.imgur.com/1Qc4uHD.png)
+<img src="https://i.imgur.com/1Qc4uHD.png"  width="600" height="180">
+
 > 圖片擷取至: [老師PPT](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 
 ## 為什麼要有 linked list?
@@ -14,15 +15,15 @@
 
 # 外部資料
 ## What is a linked list ?
-![](https://i.imgur.com/YkJUBP7.png)
+<img src="https://i.imgur.com/YkJUBP7.png"  width="600" height="300">
+
 > 圖片擷取至: [Linked List: Intro(簡介) | by Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
 **Linked list** (連結串列) 是一種常見的資料結構，其使用Node(節點)來記錄、表示、儲存資料(Data)，並利用每個 Node 中的 Pointer 指向下一個 Node，藉此將多個 Node 串連起來，形成 **Linked list**，並以 NULL 來代表 **Linked list** 的終點。
 
 在這邊 Address 代表儲存位置，每個 Node 都有一個 Address，且會 Pointer 下個 Node 的 Address。所以在建構 **Linked list** 的時候，Node 的前後關系很重要。
 ### 線性的資料結構 (Linear data structures)
-
-![](https://miro.medium.com/max/2090/1*Xokk6XOjWyIGCBujkJsCzQ.jpeg)
+<img src="https://miro.medium.com/max/2090/1*Xokk6XOjWyIGCBujkJsCzQ.jpeg"  width="600" height="300">
 > 圖片擷取至: [What’s a Linked List, Anyway? [Part 1] | by Vaidehi Joshi
 ](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
@@ -31,7 +32,7 @@
 像是 **Trees** 和 **graphs** 就是非線性資料結構，這個之後上課會教就不多講了。這時候大可能會發現 **Array** 和 **linked-List** 其實蠻像的，因為他們都屬於線性的資料結構，接著我們就來比較一下兩者的差別。
 
 ### 記憶體管理 (Memory management)
-![](https://miro.medium.com/max/2159/1*G43FVT5xJ1n1QDKVNZUxXQ.jpeg)
+<img src="https://miro.medium.com/max/2159/1*G43FVT5xJ1n1QDKVNZUxXQ.jpeg"  width="600" height="300">
 > 圖片擷取至: [What’s a Linked List, Anyway? [Part 1] | by Vaidehi Joshi
 ](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
