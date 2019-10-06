@@ -44,6 +44,15 @@
 
 ![](https://i.imgur.com/quzPcWp.png)
 
+### Step 2: 建立 Readme.md
+> Readme.md 是一個 markdown 的格式。在 Repository 下每個頁面(資料夾) ，github會直接將 readme.md的檔 顯示在檔案的底下，也就是說它是一個說明檔，說明你當前的頁面在做甚麼?
+* 主要由 markdown 構成
+* 可使用部分 html 語法
+
+### Step 3: 建立資料夾
+
+### Step 4: 上傳檔案
+
 ## 參考網站
 * https:/'guides.github.com/activities/hello-world/
 * https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
