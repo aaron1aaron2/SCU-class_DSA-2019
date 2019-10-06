@@ -35,7 +35,7 @@
   
   - **Following**: 你的偶像...
 
-## 你自己的 Repository
+## 建立你自己的 Repository
 ### Step 1: New Repository
 > 點擊 Repository -> New
 
@@ -48,6 +48,126 @@
 > Readme.md 是一個 markdown 的格式。在 Repository 下每個頁面(資料夾) ，github會直接將 readme.md的檔 顯示在檔案的底下，也就是說它是一個說明檔，說明你當前的頁面在做甚麼?
 * 主要由 markdown 構成
 * 可使用部分 html 語法
+### 簡單的  markdown 語法
+#### >>> 標頭
+> 語法
+```  
+# H1
+## H2
+### H3
+#### H4
+```
+> 結果
+
+# H1
+## H2
+### H3
+#### H4
+
+---
+
+#### >>> 列點
+> 語法
+```  
+* abc
+  * abc
+  * abc
+- abc
+  - abc
+  - abc
+```
+> 結果
+
+* abc
+  * abc
+  * abc
+- abc
+  - abc
+  - abc
+  
+---
+
+#### >>> 超連結
+> 語法
+```  
+[我的github](https://github.com/aaron1aaron2/my-learning-note/)
+```
+> 結果
+
+[我的github](https://github.com/aaron1aaron2/my-learning-note/)
+
+---
+
+#### >>> 圖片
+> 語法1
+```  
+![](https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg)
+```
+> 結果
+
+![](https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg)
+
+> 語法2 -html，可調整大小。 (注意: 在 markdown 穿插使用html語法最好後面空一行，不然會跑版)
+```  
+<img src='https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg' height=200 weight =200>
+```
+> 結果 
+
+<img src='https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg' height=200 weight =200>
+
+
+---
+
+#### >>> 斜體字
+> 語法
+```  
+*abc*
+```
+> 結果
+
+*abc*
+
+---
+
+#### >>> 粗體字
+> 語法
+```  
+**abc**
+```
+> 結果
+
+**abc**
+
+---
+
+#### >>> 引用
+> 語法
+```  
+> abc
+>> abc
+```
+> 結果
+
+> abc
+>> abc
+
+#### >>> 程式碼
+> 語法1
+```
+`abc`
+```
+> 結果
+
+`abc`
+> 語法2
+
+![](https://i.imgur.com/Dc5KPOR.png)
+
+> 結果
+
+```
+abc
+```
 
 ### Step 3: 建立資料夾
 
