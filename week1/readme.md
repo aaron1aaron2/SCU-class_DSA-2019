@@ -48,6 +48,8 @@
 > Readme.md 是一個 markdown 的格式。在 Repository 下每個頁面(資料夾) ，github會直接將 readme.md的檔 顯示在檔案的底下，也就是說它是一個說明檔，說明你當前的頁面在做甚麼?
 * 主要由 markdown 構成
 * 可使用部分 html 語法
+* 大小寫都接受
+
 ### 簡單的  markdown 語法
 #### >>> 標頭
 > 語法
@@ -170,11 +172,33 @@ abc
 ```
 
 ### Step 3: 建立資料夾
+> 點選 Create new file 。
+
+![](https://i.imgur.com/StwZFRb.png)
+> 輸入 abc/ ，就會看到有新的資料夾叫 abc
+
+![](https://i.imgur.com/ydmVWYM.png)
+> github 裡規定資料夾裡至少要有一個檔案，我建議直接創一個 readme 檔。 也就是說當資料夾裡的資料刪完後，資料夾就會自動刪除。
+
+![](https://i.imgur.com/l15xxlc.png)
 
 ### Step 4: 上傳檔案
+> 點擊 Upload file 
+
+![](https://i.imgur.com/IYSf3gc.png)
+> 點擊 choose your file  ，瀏覽你要選擇的檔案。
+
+![](https://i.imgur.com/mG86gYE.png)
+> 資料上傳完後 ，記得要按 commit changes 才會保存。
+
+![](https://i.imgur.com/fmWYtN9.png)
+>也可以直接拉過去，記得傳完後按 commit changes。
+
+![](https://i.imgur.com/DiIjNwe.png)
 
 ## 參考網站
 * https:/'guides.github.com/activities/hello-world/
 * https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 * https://ithelp.ithome.com.tw/articles/10205003?sc=iThelpR
 * https://help.github.com/en/articles/about-github-package-registry
+
