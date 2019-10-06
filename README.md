@@ -4,7 +4,7 @@
 
 # 課堂筆記
 
-- week1: [github](https://github.com/aaron1aaron2/my-learning-note/blob/master/week%201)
+- week1: [github](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1)
 
 - week2: [linked-List](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
 
