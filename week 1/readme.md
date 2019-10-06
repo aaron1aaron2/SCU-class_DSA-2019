@@ -3,10 +3,10 @@
 
 ## 什麼是 github ?
 您可能聽說過GitHub是代碼共享和發布服務，或者它是工程師的社交網站。
-兩種說法都是正確的，但是都沒有確切解釋GitHub為什麼如此特別。
+兩種說法都是正確的，但是GitHub 真正厲害的是...
 
 
-> GitHub 的核心是 Git 
+> GitHub 的核心 Git 
 
 這是一個由 Linux 創造者 Linus Torvalds 啟動的開源項目。 Git與其他版本控制系統一樣，管理和存儲項目的修訂。 
 儘管它主要用途是管理程式代碼，但Git可用於管理任何其他類型的文件，所以可以將其視為所有文檔的歸檔系統。
@@ -35,7 +35,14 @@
   
   - **Following**: 你的偶像...
 
-##
+## 你自己的 Repository
+### Step 1: New Repository
+> 點擊 Repository -> New
+
+![](https://i.imgur.com/w2rIny7.png) 
+> 填寫 `Repository name` ，作為之後的網址和 Repository 的名稱。下面 `README` 要勾。最後點擊 `Create repository.`
+
+![](https://i.imgur.com/quzPcWp.png)
 
 ## 參考網站
 * https:/'guides.github.com/activities/hello-world/
