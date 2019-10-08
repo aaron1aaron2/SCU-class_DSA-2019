@@ -11,7 +11,7 @@
 * 依使用多寡分配空間，不會有浪費的空間。
 * 適合需要頻繁新增、刪除的資料
 * 走訪功能
-* Black Chain 應用
+* Block Chain 應用
 
 # 外部資料
 ## What is a linked list ?
