@@ -6,3 +6,6 @@
 - [2019](https://cs50.harvard.edu/college/) --> 還在更新
 
 ### >>> 學習筆記的部分位以2018的課程為主
+
+- 哈佛還提供暫時的編譯環境，不用煩惱環境問題 --> [sandbox](https://sandbox.cs50.io/)
+- week : [mputer science、Binary、Representing data、Algorithms、Pseudocode](https://github.com/aaron1aaron2/my-learning-note/blob/master/CS50/Week%200.md)
