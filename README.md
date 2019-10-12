@@ -12,7 +12,7 @@
 
 - week4: [set](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set) 、 [Insertion Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) 
 
-- week5: [Quick-Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)、HW1 實作 Quick Sort
+- week5: [Quick-Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)、HW1:實作 Quick Sort
 
 - week6
 
