@@ -20,7 +20,9 @@ Quick Sort 他是以 [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-a
 - 以中位數為基準點
 - 隨機基準點(下圖)
 
-![](https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg)
+<img src="https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg" height='605' weight='500'>
+
+
 ## 複雜度分析
 - 時間複雜度
     - 最差: [ Big-O ]: O(n2)
