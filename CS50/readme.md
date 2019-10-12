@@ -8,4 +8,4 @@
 
 ### >>> 學習筆記的部分位以2018的課程 Note 做延伸
 
-- week0: [mputer science、Binary、Representing data、Algorithms、Pseudocode](https://github.com/aaron1aaron2/my-learning-note/blob/master/CS50/Week%200.md)
+- week0: [Computer science、Binary、Representing data、Algorithms、Pseudocode](https://github.com/aaron1aaron2/my-learning-note/blob/master/CS50/Week%200.md)
