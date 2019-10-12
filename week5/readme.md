@@ -20,8 +20,11 @@ Quick Sort 他是以 [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-a
 - 以中位數為基準點
 - 隨機基準點(下圖)
 
-<img src="https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg" height='605' weight='500'>
-
+![](https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg)
+## 特點
+- 他有回歸性 (recursive)
+- 屬於分治法 ([divide-and-conquer](https://zh.wikipedia.org/zh-tw/%E5%88%86%E6%B2%BB%E6%B3%95))
+- 有效率的處理大的資料
 
 ## 複雜度分析
 - 時間複雜度
@@ -31,7 +34,7 @@ Quick Sort 他是以 [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-a
 
     - 平均: [Big-theta]: O(n*log n)
 
-空間複雜度: O(n*log n)
+- 空間複雜度: O(n*log n)
 
 ### Difference between Big O and Big Ω
 The difference between Big O notation and Big Ω notation is that Big O is used to describe the worst case running time for an algorithm. But, Big Ω notation, on the other hand, is used to describe the best case running time for a given algorithm.
@@ -48,6 +51,7 @@ The difference between Big O notation and Big Ω notation is that Big O is used 
 - https://www.hackerearth.com/zh/practice/algorithms/sorting/quick--sort/tutorial/
 - https://www.geeksforgeeks.org/quick-sort/
 - https://www.studytonight.com/data-structures/quick-sort
+- https://www.youtube.com/watch?v=CB_NCoxzQnk
 
 # Quick-Sort by linked-List
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Sort-Linked-List-768x384.png)
