@@ -81,3 +81,25 @@
 - 參考
     - [Big Data: The 5 Vs Everyone Must Know](https://www.linkedin.com/pulse/20140306073407-64875646-big-data-the-5-vs-everyone-must-know)
     - [The 5 V’s of big data](https://www.ibm.com/blogs/watson-health/the-5-vs-of-big-data/)
+
+## What's the difference between Data Scientists, engineers, and analysts?
+> [原文](https://www.quora.com/Whats-the-difference-between-Data-Scientists-engineers-and-analysts/answer/Ricardo-Vladimiro-1?ch=10&share=1b41d870&srid=EmIRQ)
+### Data Analysts
+
+There are two types of analysts in Miniclip. Business analysts focus mostly on more traditional analytics, such as business, marketing and advertising. Although some of them have some understanding of R, they mostly use Excel to generate their reports.
+
+The other type and the majority are game analysts. They are mostly focused on games and user behaviour. They are experts at running experiments and conducting complex analysis. All of them code, all of them interact with big data systems. Since they are the core of my team, I’m quite proud of them. :) I expect them to continuously develop new skills and knowledge. Some tend on the more behavioural side, others on the more technical side. The breadth of knowledge of the game analysts is what makes this team outstanding. They can analyse, model, build apps, data mine, build data products, you name it, at least one of them knows it… except maybe NLP.
+
+### Data Engineers
+
+In a nutshell data engineers build and maintain the big data infrastructure at Miniclip. This means all systems that acquire, transform and hold data. We also expect them to understand machine learning and the more senior ones fit the description of a machine learning engineer or data scientist also.
+
+They are the ones that allow us to do what we do. Without data engineers there would be no data systems and we would be dependent of third party tools.
+
+### Data Scientists
+
+Data scientists build data products. Data products are, for all intended purposes, applications that allow business users, our games and sometimes other data professionals, to interact with data in ways that wouldn’t be possible given the idiosyncrasies of the said data.
+
+Some of the data products we built include apps to predict LTV and churn, to detect fraudulent user behaviour, to predict future user behaviour.
+
+Data scientists are expected to research, prototype and build data products that allow the business as a whole to use data not as information but as a valuable asset.
