@@ -3,7 +3,6 @@
 > 這邊有所有我練習的程式碼。
 
 # 課堂筆記
-
 - week1: [github](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1)
 
 - week2: [linked-List](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
@@ -16,6 +15,9 @@
 
 - week6
 
+- other 
+    - [leetcode 練習筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
+    - [CS50 筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/CS50)
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
 
