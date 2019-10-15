@@ -20,7 +20,7 @@ Quick Sort 他是以 [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-a
 - 以中位數為基準點
 - 隨機基準點(下圖)
 
-![](https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg)
+<img src="https://he-s3.s3.amazonaws.com/media/uploads/1ea505b.jpg" height='600' weight='500'
 ## 特點
 - 他有回歸性 (recursive)
 - 屬於分治法 ([divide-and-conquer](https://zh.wikipedia.org/zh-tw/%E5%88%86%E6%B2%BB%E6%B3%95))
