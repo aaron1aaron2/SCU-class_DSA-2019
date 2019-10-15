@@ -55,5 +55,4 @@ The difference between Big O notation and Big Ω notation is that Big O is used 
 
 # Quick-Sort by linked-List
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Sort-Linked-List-768x384.png)
-## 參考網站
-https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+#### 有興趣可以參考這邊>>> https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
