@@ -11,18 +11,9 @@
 |Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[answer](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
 |Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
 ## 目錄
-[Set Matrix Zeroes](#set-matrix-zeroes)
+- Matrix
+  - [Set Matrix Zeroes](#set-matrix-zeroes)
 
 ## 自我練習
 > 自我練習，的部分
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br><br><br><br><br>
-
 ### Set Matrix Zeroes
