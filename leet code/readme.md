@@ -9,5 +9,4 @@
 ### 5. Insertion Sort List[前往](https://leetcode.com/problems/insertion-sort-list/)
 
 ## 練習
-### 4. Two sum [前往](https://leetcode.com/problems/two-sum/)
 
