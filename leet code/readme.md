@@ -10,10 +10,11 @@
 |Set Mismatch|[Leetcode](https://leetcode.com/problems/set-mismatch/)|[answer](Set%20Mismatch.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set)
 |Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[answer](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
 |Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
+
 ## 目錄
 - Matrix
   - [Set Matrix Zeroes](#set-matrix-zeroes)
 
 ## 自我練習
-> 自我練習，的部分
+> 自我練習，的部分我會先以 Medium 的題目為主
 ### Set Matrix Zeroes
