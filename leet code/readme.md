@@ -4,11 +4,11 @@
 ## 課程練習
 |題目|來源|我的解答|
 |-|-|-|
-|Design Linked List|[前往](https://leetcode.com/problems/design-linked-list/)|[我的解答](https://leetcode.com/problems/design-linked-list/)|
-|Min Stack|[前往](https://leetcode.com/problems/design-linked-list/)|[我的解答](https://leetcode.com/problems/design-linked-list/)|
-|Implement Queue using Stacks|[前往](https://leetcode.com/problems/design-linked-list/)|[我的解答](https://leetcode.com/problems/design-linked-list/)|
-|Set Mismatch|[前往](https://leetcode.com/problems/design-linked-list/)|[我的解答](https://leetcode.com/problems/design-linked-list/)|
-|Insertion Sort List|[前往](https://leetcode.com/problems/design-linked-list/)|[我的解答](https://leetcode.com/problems/design-linked-list/)|
+|Design Linked List|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
+|Min Stack|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
+|Implement Queue using Stacks|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
+|Set Mismatch|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
+|Insertion Sort List|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
 
 ## 自我練習
 > 自我練習，的部分
