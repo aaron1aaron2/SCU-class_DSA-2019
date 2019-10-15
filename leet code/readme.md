@@ -3,7 +3,7 @@
 
 ## 課程練習
 |題目|來源|我的解答|
-|-|-|-|
+|-|:-:|:-:|
 |Design Linked List|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
 |Min Stack|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
 |Implement Queue using Stacks|[前往](https://leetcode.com/problems/design-linked-list/)|[前往](https://leetcode.com/problems/design-linked-list/)|
