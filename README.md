@@ -83,7 +83,7 @@
     - [The 5 V’s of big data](https://www.ibm.com/blogs/watson-health/the-5-vs-of-big-data/)
 
 ## What's the difference between Data Scientists, engineers, and analysts?
-> [原文](https://www.quora.com/Whats-the-difference-between-Data-Scientists-engineers-and-analysts/answer/Ricardo-Vladimiro-1?ch=10&share=1b41d870&srid=EmIRQ)
+> 我現在也還在尋找我要甚麼，希望大家可以找到自己的定位，我覺得這篇還不錯，大家可以參考看看。
 ### Data Analysts
 
 There are two types of analysts in Miniclip. Business analysts focus mostly on more traditional analytics, such as business, marketing and advertising. Although some of them have some understanding of R, they mostly use Excel to generate their reports.
@@ -103,3 +103,5 @@ Data scientists build data products. Data products are, for all intended purpose
 Some of the data products we built include apps to predict LTV and churn, to detect fraudulent user behaviour, to predict future user behaviour.
 
 Data scientists are expected to research, prototype and build data products that allow the business as a whole to use data not as information but as a valuable asset.
+
+> [原文](https://www.quora.com/Whats-the-difference-between-Data-Scientists-engineers-and-analysts/answer/Ricardo-Vladimiro-1?ch=10&share=1b41d870&srid=EmIRQ)
