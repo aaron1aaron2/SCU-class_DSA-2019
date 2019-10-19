@@ -213,4 +213,5 @@ GitHub 強制他們使用“文本/純文本”內容類型，因此無法直接
 
 #### >>> 直接在你的連結前加入 `https://htmlpreview.github.io/?` ，其他使用者就可以透過這個連結直接預覽你放在 GitHub 上的 HTML 檔案
 > [範例](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.html)
+
 > [原文](https://github.com/htmlpreview/htmlpreview.github.com)
