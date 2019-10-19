@@ -197,8 +197,19 @@ abc
 ![](https://i.imgur.com/DiIjNwe.png)
 
 ## 參考網站
-* https:/'guides.github.com/activities/hello-world/
+* https://guides.github.com/activities/hello-world/
 * https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 * https://ithelp.ithome.com.tw/articles/10205003?sc=iThelpR
 * https://help.github.com/en/articles/about-github-package-registry
 
+---
+# 如何在 github 上面預覽 html 的檔案?
+當你想直接從 GitHub 在 Web瀏覽器中打開任何 HTML 、CSS 或 JS 的檔案，您看到的只是源本代碼。因為
+GitHub 強制他們使用“文本/純文本”內容類型，因此無法直接對其預覽。
+
+* 其實 github 有提供 GitHub Pages 用來專門託管 HTML 的文件，我這邊就不介紹了。 >>> [有興趣的人可以看這裡](https://gitbook.tw/chapters/github/using-github-pages.html)
+
+* 更輕便的方式 -> GitHub＆BitBucket HTML Preview，它們使用 CORS 代理伺服器來獲取客戶端的資訊，可以直接預覽客戶端的 HTML，而無需複製或下載整個存儲庫。
+
+#### >>> 直接在你的連結前加入 `https://htmlpreview.github.io/?` ，其他使用者就可以透過這個連結直接預覽你放在 GitHub 上的 HTML 檔案
+> [原文](https://github.com/htmlpreview/htmlpreview.github.com)
