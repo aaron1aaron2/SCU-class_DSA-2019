@@ -57,3 +57,108 @@ The difference between Big O notation and Big Ω notation is that Big O is used 
 # Quick-Sort by linked-List
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Sort-Linked-List-768x384.png)
 #### 有興趣可以參考這邊>>> https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+
+--- 
+# Quick-Sort 流程 
+
+by  何彥南
+
+### step0: 初始值
+
+    array = {10, 80, 30, 90, 40, 50, 70}
+    Indexes:  0   1   2   3   4   5   6 
+    
+    初始值: low = 0 #頭  
+    				high = 6 #尾
+    				pivot = array[high] = 70 #以尾巴作為基準
+    			  border = -1 
+    				cur = None 
+
+- 主要由雙 index  運作:
+    - border 初始值為 -1 ，也就是在 array 外面，以下簡稱 b。
+    - cur 由 low -> hight ，依順序通過 array 裡的每個 element，以下簡稱 c。
+
+### step1 :  c (10) 的值 ≤ 基準點 (70)  →  c (10) 與 b (10) 的值交換 、b++ 、**c++**
+
+    array[] = {10, 80, 30, 90, 40, 50, 70}
+    Indexes:   0   1   2   3   4   5   6
+    					 b
+    					 c
+
+- b = c = 0
+- 排序結果 :   順序不變
+- b++(c++)  就是 b=b+1 的意思
+
+### step2 :  c (80) 的值 > 基準點(70)  →  b不變、c++
+
+    array[] = {10, 80, 30, 90, 40, 50, 70}
+    Indexes:   0   1   2   3   4   5   6
+    						   b
+    							 c
+
+- c = 1 、b = 1
+- 排序結果 :  順序不變
+- 因為沒做交換，border 不變
+
+### step3 :  c (30) 的值 ≤ 基準點 (70)  →  c (30) 與 b (80) 的值交換 、b++ 、**c++**
+
+    array[] = {10, 80, 30, 90, 40, 50, 70} 
+    Indexes:   0   1   2   3   4   5   6
+    							 b
+    								   c
+
+- c = 2 、b = 1
+- 排序結果 :  {10, 30, 80, 90, 40, 50, 70}
+
+### step4 :  c (90) 的值 > 基準點(70)  →  b不變、c++
+
+    array[] = {10, 30, 80, 90, 40, 50, 70}
+    Indexes:   0   1   2   3   4   5   6
+    									 b
+    											 c
+
+- c = 3 、b=2
+- 排序結果 :  順序不變
+
+### step5 :  c (40) 的值 ≤ 基準點 (70)  →  c (40) 與 b (80) 的值交換 、b++ 、**c++**
+
+    array[] = {10, 30, 80, 90, 40, 50, 70}
+    Indexes:   0   1   2   3   4   5   6
+    									 b
+    													 c
+
+- c = 4 、b = 2
+- 排序結果 : {10, 30, 40, 90, 80, 50, 70}
+
+### step6 :  c (50) 的值 ≤ 基準點 (70)  →  c (50) 與 b (90) 的值交換 、b++ 、**c++**
+
+    array[] = {10, 30, 40, 90, 80, 50, 70} 
+    Indexes:   0   1   2   3   4   5   6
+    											 b
+    															 c
+
+- c = 5 、b = 3
+- 排序結果 : {10, 30, 40, 50, 80, 90, 70}
+
+### step7 :  c = high-1  跳出迴圈 → c (70) 與 b (80) 的值交換
+
+    array[] = {10, 30, 40, 50, 80, 90, 70} 
+    Indexes:   0   1   2   3   4   5   6
+    													 b
+    																	 c
+
+- c=6、b=4
+- 排序結果 : {10, 30, 40, 50, 70, 90, 80}
+
+### step8 :  基準點到正確位置  →  對基準點前後的 index 做切分
+
+    array[] = {10, 30, 40, 50, 70, 90, 80} 
+    Indexes:   0   1   2   3   4   5   6
+
+### step9 :  兩個 sub_array 依序丟回 step 0 ，直到 sub_array 的 low=high
+
+    					|  sub_array    | 已排序  |sub_array|
+    array[] = {10, 30, 40, 50}|   70   | {90, 80} 
+    Indexes:   0   1   2   3  |   4    |  5   6 
+    					low         high           low high
+    											pivot              pivot
