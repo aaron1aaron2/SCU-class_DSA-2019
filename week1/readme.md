@@ -205,7 +205,7 @@ abc
 ---
 # 如何在 github 上面預覽 html 的檔案?
 當你想直接從 GitHub 在 Web瀏覽器中打開任何 HTML 、CSS 或 JS 的檔案，您看到的只是源本代碼。因為
-GitHub 強制他們使用“文本/純文本”內容類型，因此無法直接對其預覽。
+GitHub 強制他們使用**純文本**的類型打開，因此無法直接對其預覽。
 
 * 其實 github 有提供 GitHub Pages 用來專門託管 HTML 的文件，我這邊就不介紹了。 >>> [有興趣的人可以看這裡](https://pages.github.com/)
 
