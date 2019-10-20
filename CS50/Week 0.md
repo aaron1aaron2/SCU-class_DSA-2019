@@ -17,7 +17,7 @@
 |What is computer science? | 12:22 ~ 15:00
 |Algorithms | 15:00 ~ 19:21
 |Pseudocode | 19:21 ~ 36:35
-|課程介紹(可跳過) | 36:35~ 
+|課程說明(可跳過) | 36:35~ 
 
 
 ## Welcome 
