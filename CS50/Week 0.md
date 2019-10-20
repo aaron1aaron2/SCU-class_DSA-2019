@@ -6,19 +6,19 @@
 - [Algorithms](#Algorithms)
 - [Pseudocode](#Pseudocode)
 
-
 ## 課程來源
-- 課程網址: https://cs50.harvard.edu/college/2018/fall/weeks/0/
-- 影片網址(2013): https://www.youtube.com/watch?v=79gAss0K1TI
-  - Welcome >> 0:00 ~ 3:18
-  - Binary  >> 3:18 ~ 12:22
-  - What is computer science? >> 12:22 ~ 15:00
-  - Algorithms >> 15:00 ~ 19:21
-  - Pseudocode >> 19:21 ~ 36:35
-  - 課程介紹(可跳過) >> 36:35~ 
-  - Representing data >> 新課程
+- [課程](https://cs50.harvard.edu/college/2018/fall/weeks/0/)
+- [影片網址(2013)](https://www.youtube.com/watch?v=79gAss0K1TI) 
+### 影片
+|title|time|
+|-|:-:|
+|Welcome | 00:00 ~ 3:18
+|Binary  | 03:18 ~ 12:22
+|What is computer science? | 12:22 ~ 15:00
+|Algorithms | 15:00 ~ 19:21
+|Pseudocode | 19:21 ~ 36:35
+|課程介紹(可跳過) | 36:35~ 
 
-  
 
 ## Welcome 
 你以前沒有碰過電腦科學，不用擔心我會一步步的帶你走入電腦科學的世界，直到你跟我一樣了解電腦科學。
