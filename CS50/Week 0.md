@@ -1,8 +1,8 @@
 # Lecture 0
 - [Welcome](#Welcome)
-- [What is computer science?](#What%20is%20computer%20science?)
+- [What is computer science?](#What-is-computer-science?)
 - [Binary](#Binary)
-- [Representing data](#Representing%20data)
+- [Representing data](#Representing-data)
 - [Algorithms](#Algorithms)
 - [Pseudocode](#Pseudocode)
 
