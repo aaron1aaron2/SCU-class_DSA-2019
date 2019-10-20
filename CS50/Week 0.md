@@ -1,5 +1,11 @@
 # Lecture 0
 - [Welcome](#Welcome)
+- [What is computer science?](#What%20is%20computer%20science?)
+- [Binary](#Binary)
+- [Representing data](#Representing%20data)
+- [Algorithms](#Algorithms)
+- [Pseudocode](#Pseudocode)
+
 
 ## 課程來源
 - 課程網址: https://cs50.harvard.edu/college/2018/fall/weeks/0/
