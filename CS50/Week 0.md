@@ -1,6 +1,6 @@
 # Lecture 0
 - [Welcome](#Welcome)
-- [What is computer science?](#What-is-computer-science?)
+- [What is computer science?](#What-is-computer-science)
 - [Binary](#Binary)
 - [Representing data](#Representing-data)
 - [Algorithms](#Algorithms)
