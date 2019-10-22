@@ -52,7 +52,6 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 
 ##  Heap Sort  step-by-step
->將其轉換為 max heap
 ### Initial Elements (初始元素)
 
 <img src='https://i.imgur.com/eBDrKvL.png' height=200 weight=750>
@@ -61,11 +60,11 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 <img src='https://i.imgur.com/gx0FGCY.png' height=200 weight=750>
 
-### Heap
+### Step 0: 
+> 將其轉換為 max heap
 
 <img src='https://i.imgur.com/BOy1IvU.png' height=350 weight=800>
 
----
 ### Step 1: 
 
 > 8 與 5 交換。>>  8 與 heap 切斷連結，此時 8 已經為排序過的 element。
