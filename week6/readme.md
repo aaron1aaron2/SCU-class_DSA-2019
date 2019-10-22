@@ -60,33 +60,33 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 <img src='https://i.imgur.com/gx0FGCY.png' height=200 weight=750>
 
-### Step 0: 
+### Step 0
 > 將其轉換為 max heap
 
 <img src='https://i.imgur.com/BOy1IvU.png' height=330 weight=720>
 
-### Step 1: 
+### Step 1
 
 > 8 與 5 交換。>>  8 與 heap 切斷連結，此時 8 已經為排序過的 element。
 
 <img src='https://i.imgur.com/Xy2r7Cu.png' height=330 weight=720>
 
-### Step 2: 
+### Step 2
 > 建立 Max-heap >> 7 與 3 交換 >> 7 與 heap 切斷連結。
 
 <img src='https://i.imgur.com/LlgrgNf.png' height=330 weight=720>
 
-### Step 3: 
+### Step 3
 > 建立 Max heap  >> 5 與 1 交換 >> 5 與 heap 切斷連結。
 
 <img src='https://i.imgur.com/ccgbPsl.png' height=330 weight=720>
 
-### Step 4: 
+### Step 4
 > 建立 Max heap >> 4 與 3 交換 >> 4 與 heap 切斷連結。
 
 <img src='https://i.imgur.com/gDYAi3D.png' height=330 weight=720>
 
-### Step 5: 
+### Step 5
 > 建立 Max heap >> 3 與 1 交換 >> 3 與 heap 切斷連結。
 
 <img src='https://i.imgur.com/N7IFaUW.png' height=330 weight=720>
