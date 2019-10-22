@@ -11,9 +11,7 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 * Heap Property: 所有節點再初始狀態下沒有大小排序. 但是當所有 parent nodes(父節點)> 所有的 child nodes(子節點), 就會稱作 `Max-Heap`。反之當所有 parent nodes(父節點)< 所有的 child nodes(子節點) `Min-Heap`。(如下圖)
 
-
-
-![](https://i.imgur.com/u6OeFbC.png)
+<img src='https://i.imgur.com/u6OeFbC.png' height=400 weight=673>
 
 
 - 它是 linked 的進化版，一般在 linked-List 裡的 Node 裡面，只會包含 value 和 pointer(往前或往後)。但是它把在 heap 裡面，它限制只能往一個方向
@@ -68,30 +66,27 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 > 8 與 5 交換。>>  8 與 heap 切斷連結，此時 8 已經為排序過的 element。
 
-![](https://i.imgur.com/Xy2r7Cu.png)
+<img src='https://i.imgur.com/Xy2r7Cu.png' height=350 weight=780>
 
 ### Step 2: 
 > 建立 Max-heap >> 7 與 3 交換 >> 7 與 heap 切斷連結。
 
-![](https://i.imgur.com/LlgrgNf.png)
+<img src='https://i.imgur.com/LlgrgNf.png' height=350 weight=780>
 
 ### Step 3: 
 > 建立 Max heap  >> 5 與 1 交換 >> 5 與 heap 切斷連結。
 
-
-![](https://i.imgur.com/ccgbPsl.png)
+<img src='https://i.imgur.com/ccgbPsl.png' height=350 weight=780>
 
 ### Step 4: 
 > 建立 Max heap >> 4 與 3 交換 >> 4 與 heap 切斷連結。
 
-![](https://i.imgur.com/gDYAi3D.png)
-
+<img src='https://i.imgur.com/gDYAi3D.png' height=350 weight=780>
 
 ### Step 5: 
 > 建立 Max heap >> 3 與 1 交換 >> 3 與 heap 切斷連結。
 
-
-![](https://i.imgur.com/N7IFaUW.png)
+<img src='https://i.imgur.com/N7IFaUW.png' height=350 weight=780>
 
 ### Result
 
