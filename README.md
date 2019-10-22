@@ -4,25 +4,25 @@
 學演算法主要是你的思考如何解決問題的過程，程式碼不是最重要的，畢竟答案都查的到，程式碼只是實現想法的工具。當然我的程式碼也是會參考別人的，但是我在看別人的解法前，都會嘗試的自己去思考去寫，就算你的解法不是最好的，但至少你有你的想法。
 
 # 課堂筆記
-## week 1
+### week 1
 - [github](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1)
 
-## week 2
+### week 2
 - [linked-List](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
 
-## week 3
+### week 3
 - [Stack & Queue](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
 
-## week 4
+### week 4
 - [set](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set) 
 - [Insertion Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4) 
 
-## week 5
+### week 5
 - [Quick-Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
 - [HW1:實作 Quick Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)
 - [HW1: 流程圖](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.html) >>>[如何預覽HTML](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1/readme.md#%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E4%B8%8A%E9%9D%A2%E9%A0%90%E8%A6%BD-html-%E7%9A%84%E6%AA%94%E6%A1%88)
 
-## week6
+### week6
 - [Heap Sort]()
 
 ## leetcode 
@@ -30,7 +30,7 @@
 
 ## CS50
 - [CS50 筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/CS50)
-
+---
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
 
