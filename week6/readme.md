@@ -63,7 +63,7 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 
 ### Heap
 
-<img src='https://i.imgur.com/BOy1IvU.png' height=200 weight=750>
+<img src='https://i.imgur.com/BOy1IvU.png' height=350 weight=800>
 
 ---
 ### Step 1: 
