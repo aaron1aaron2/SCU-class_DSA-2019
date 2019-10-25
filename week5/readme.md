@@ -37,8 +37,6 @@ Quick Sort 他是以 [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-a
 
 - 空間複雜度: O(n*log n)
 
-### Difference between Big O and Big Ω
-The difference between Big O notation and Big Ω notation is that Big O is used to describe the worst case running time for an algorithm. But, Big Ω notation, on the other hand, is used to describe the best case running time for a given algorithm.
 ## Is QuickSort stable?
 其實由上面的時間複雜度就可以知道 QuickSort 是一個不穩定的排序方式。它的表現跟基準點的選擇有關，當你排序後所有element 都在基準點的同一側，也就是說你選擇的基準點在 array 裡是最大或最小的值，
 
