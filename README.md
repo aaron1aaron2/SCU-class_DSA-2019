@@ -11,7 +11,7 @@
 當然，我也尊重我們司助教的規則，但這次code 我能保證完全自己打出來，且會附上我的參考網站。
 
 #### >>>我知道我比較笨，怕忘記規定，於是我把 ppt 上的規則截圖下來，早晚看一遍，時時警惕自己不要抄襲~
-<img src="https://i.imgur.com/Yb2K8AH.png" height='100' weight='100'>
+<img src="https://i.imgur.com/Yb2K8AH.png" height='50' weight='50'>
 
 # 課堂筆記
 ### week 1
