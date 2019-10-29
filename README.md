@@ -26,8 +26,35 @@
 - [HW1:實作 Quick Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)
 - [HW1: 流程圖](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.html) >>>[如何預覽HTML](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1/readme.md#%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E4%B8%8A%E9%9D%A2%E9%A0%90%E8%A6%BD-html-%E7%9A%84%E6%AA%94%E6%A1%88)
 
-### week6
+### week 6
 - [Heap Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/readme.md)
+
+### week 7
+- Merge Sort
+
+### week 8
+- Binary Tree
+
+### week 9
+- Binary Search Tree
+
+### week 10
+- Red Black Tree
+
+### week 11 
+- Hash Table
+
+## week 12
+- Breadth-First Search
+
+## week 13 
+- Depth-First Search
+
+## week 14
+- Minimum Spanning Tree
+
+## week 15
+- Shortest Path
 
 ### leetcode 
 - [leetcode 練習筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
