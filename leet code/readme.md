@@ -4,12 +4,12 @@
 ## 課程練習
 |題目|來源|我的解答|我的筆記|
 |-|:-:|:-:|:-:|
-|Design Linked List|[Leetcode](https://leetcode.com/problems/design-linked-list/)|[answer](Design%20Linked%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
-|Min Stack|[Leetcode](https://leetcode.com/problems/min-stack/)|[answer](Min%20Stack.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
-|Implement Queue using Stacks|[Leetcode](https://leetcode.com/problems/implement-queue-using-stacks/)|[answer](Implement%20Queue%20using%20Stacks.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
-|Set Mismatch|[Leetcode](https://leetcode.com/problems/set-mismatch/)|[answer](Set%20Mismatch.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set)
-|Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[answer](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
-|Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
+|Design Linked List|[Leetcode](https://leetcode.com/problems/design-linked-list/)|[Design Linked List.py](Design%20Linked%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week2)
+|Min Stack|[Leetcode](https://leetcode.com/problems/min-stack/)|[Min Stack.py](Min%20Stack.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
+|Implement Queue using Stacks|[Leetcode](https://leetcode.com/problems/implement-queue-using-stacks/)|[Implement Queue using Stacks.py](Implement%20Queue%20using%20Stacks.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week3)
+|Set Mismatch|[Leetcode](https://leetcode.com/problems/set-mismatch/)|[Set Mismatch.py](Set%20Mismatch.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week4/readme.md#set)
+|Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[Insertion Sort List.py](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
+|Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[Quick Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
 |Univalued Binary Tree|[Leetcode](https://leetcode.com/problems/univalued-binary-tree/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Univalued%20Binary%20Tree.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/readme.md)
 |Tree| - |[Tree.py](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Tree.py)
 ## 目錄
