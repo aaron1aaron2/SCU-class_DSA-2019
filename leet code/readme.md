@@ -11,6 +11,7 @@
 |Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[answer](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
 |Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.ipynb)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
 |Univalued Binary Tree|[Leetcode](https://leetcode.com/problems/univalued-binary-tree/)|[answer](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Univalued%20Binary%20Tree.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/readme.md)
+|Tree| - |[Tree.py](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Tree.py)
 ## 目錄
 - Matrix
   - [Set Matrix Zeroes](#set-matrix-zeroes)
