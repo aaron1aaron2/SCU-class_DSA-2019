@@ -141,7 +141,7 @@ def merge_sort(input):
 
 **會等待另一個 array 處理完，才接下去比較。**
 
-![image.png](attachment:image.png)
+![image.png](https://github.com/aaron1aaron2/my-learning-note/blob/master/image/Merge%20sort_2.png)
 
 **[圖出不來可以到這邊](https://github.com/aaron1aaron2/my-learning-note/blob/master/image/Merge%20sort_2.png)**
 
