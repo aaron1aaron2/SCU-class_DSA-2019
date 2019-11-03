@@ -27,10 +27,10 @@
 - [HW1: 流程圖](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week5/Quick%20Sort.html) >>>[如何預覽HTML](https://github.com/aaron1aaron2/my-learning-note/blob/master/week1/readme.md#%E5%A6%82%E4%BD%95%E5%9C%A8-github-%E4%B8%8A%E9%9D%A2%E9%A0%90%E8%A6%BD-html-%E7%9A%84%E6%AA%94%E6%A1%88)
 
 ### week 6
-- [Heap Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/readme.md)
+- [Heap Sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6)
 
 ### week 7
-- Merge Sort
+- [Merge Sort](https://github.com/aaron1aaron2/my-learning-note/tree/master/week7)
 
 ### week 8
 - Binary Tree
