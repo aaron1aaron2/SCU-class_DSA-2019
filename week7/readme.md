@@ -13,11 +13,13 @@
 
 ### >>下圖1、8、2、9 為切分過程，當切到 sub array 只包含 1 element 時開始比較合併的
 
-![](https://he-s3.s3.amazonaws.com/media/uploads/37deb43.jpg)
+<img src="https://he-s3.s3.amazonaws.com/media/uploads/37deb43.jpg" height=850 weight=650>
 
 >[來源網站](https://www.hackerearth.com/zh/practice/algorithms/sorting/merge-sort/tutorial/)
 ### >>下圖為另一張流程圖，在切分和合併比較清楚
-![](https://www.studytonight.com/data-structures/images/merge-sort-working.png)
+
+<img src="https://www.studytonight.com/data-structures/images/merge-sort-working.png" height=850 weight=650>
+
 >[圖片來源](https://www.studytonight.com/data-structures/merge-sort)
 
 
