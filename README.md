@@ -33,7 +33,8 @@
 
 ### week 9
 - Binary Search Tree
-
+- [HW2-merge_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week7/Merge%20Sort.html)
+- [HW2-heap_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/Heap%20Sort.html)
 ### week 10
 - Red Black Tree
 
