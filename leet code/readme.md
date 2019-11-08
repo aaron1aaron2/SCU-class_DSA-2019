@@ -11,8 +11,8 @@
 |Insertion Sort List|[Leetcode](https://leetcode.com/problems/insertion-sort-list/)|[Insertion Sort List.py](Insertion%20Sort%20List.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week4)
 |Sort an Array|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[Quick Sort.py](Quick%20Sort.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week5)
 |Univalued Binary Tree|[Leetcode](https://leetcode.com/problems/univalued-binary-tree/)|[Univalued Binary Tree.py](Univalued%20Binary%20Tree.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/blob/master/week6/readme.md)
-|Heap Sort|[Leetcode](https://leetcode.com/problems/sort-an-array/)|-|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week6)
-|Merge Sort|[Leetcode](https://leetcode.com/problems/sort-an-array/)|-|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week7)
+|Heap Sort|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[heap sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/HW2/heap_sort_06170214.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week6)
+|Merge Sort|[Leetcode](https://leetcode.com/problems/sort-an-array/)|[merge sort](https://github.com/aaron1aaron2/my-learning-note/blob/master/HW2/merge_sort_06170214.py)|[Note](https://github.com/aaron1aaron2/my-learning-note/tree/master/week7)
 |Tree| - |[Tree.py](https://github.com/aaron1aaron2/my-learning-note/blob/master/leet%20code/Tree.py)|-
 - Matrix
   - [Set Matrix Zeroes](#set-matrix-zeroes)
