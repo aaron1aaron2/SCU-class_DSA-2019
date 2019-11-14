@@ -74,7 +74,7 @@
 
 # python 學習地圖
 
-<img src="image/72302.jpg" height=450 weight=1200>
+<img src="image/72302.jpg" height=650 weight=1200>
 
 ## 資料科學
 - 機率與統計 50%
