@@ -73,7 +73,7 @@
 * 擅長程式: python 
 
 # python 學習地圖
-![](image/72302.jpg)
+<img src="image/72302.jpg" height=450 weight=1200>
 ## 資料科學
 
 ## 資料工程
