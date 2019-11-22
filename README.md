@@ -40,7 +40,7 @@
 
 ### week 11 
 - Hash Table
-- [HW3-學習歷程](HW3/BST_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E8%AA%AA%E6%98%8E.ipynb)
+- [HW3-學習歷程](https://nbviewer.jupyter.org/github/aaron1aaron2/my-learning-note/blob/master/HW3/BST_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E8%AA%AA%E6%98%8E.ipynb)
 
 ### week 12
 - Breadth-First Search
