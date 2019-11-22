@@ -32,7 +32,7 @@
 - [Binary Tree](note/Tree.py)
 
 ### week 9
-- Binary Search Tree
+- [Binary Search Tree](note/Binary%20Search%20Tree.md)
 - [HW2-merge_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Merge%20Sort.html)
 - [HW2-heap_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Heap%20Sort.html)
 ### week 10
