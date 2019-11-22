@@ -29,7 +29,7 @@
 - [Merge Sort](note/Merge%20Sort.md)
 
 ### week 8
-- [Binary Tree](note/Tree.py)
+- [Binary Tree](note/Tree.md)
 
 ### week 9
 - [Binary Search Tree](note/Binary%20Search%20Tree.md)
