@@ -5,7 +5,6 @@
 - [2013](http://cs50.tv/2013/fall/) (老師的)
 - [2018](https://cs50.harvard.edu/college/2018/fall/weeks/) -->最新完整
 - [2019](https://cs50.harvard.edu/college/) --> 還在更新
-- 哈佛還提供暫時的編譯環境，不用煩惱環境問題 --> [sandbox](https://sandbox.cs50.io/)
 
 ### >>> 影片的部分以2013的課程為主，學習筆記的部分位以2018的課程 Note 做延伸。
 
