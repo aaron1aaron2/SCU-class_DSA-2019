@@ -10,6 +10,7 @@ class MyHashSet:
     def __init__(self, capacity=5):
         self.capacity = capacity
         self.data = [None] * capacity
+        self.size = 0
     
     def encrypt(self, text):
         h = MD5.new()
@@ -27,10 +28,10 @@ class MyHashSet:
             return cur
         else:
             while cur.next is not None:
-                if cur.val == num:
-                    return num
                 cur = cur.next
-            return False
+                if cur.val == num:
+                    return cur          
+        return False
         
     def add(self, key):
         if self.search(key) is  False:
@@ -41,10 +42,11 @@ class MyHashSet:
             if cur is None:
                 self.data[idx] = ListNode(num)
             else:
-                new.next = self.data[idx]
-                self.data[idx].pre = new
-                self.data[idx] = new           
+                new.next = cur
+                cur.pre = new
+                self.data[idx] = new
         else:
+            print('already in hash table!')
             pass
         
     def remove(self, key):
@@ -52,6 +54,7 @@ class MyHashSet:
         idx = num%self.capacity
         target = self.search(key)
         if target is not False:
+            self.size-=1
             parent = target.pre
             child = target.next
             if parent is None:
@@ -61,6 +64,7 @@ class MyHashSet:
                 parent.next = child
                 child.pre = parent
         else:
+            print('no target !')
             pass
         
     def contains(self, key):
