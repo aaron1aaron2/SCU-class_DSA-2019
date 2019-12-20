@@ -43,10 +43,10 @@
 - [Hash Table](note/hash%20table.md)
 
 ### week 12
-- Breadth-First Search
+- [Breadth-First Search]
 
 ### week 13 
-- Depth-First Search
+- [Depth-First Search](note/Depth-First%20Search.md)
 
 ### week 14
 - Minimum Spanning Tree
