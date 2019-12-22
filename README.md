@@ -43,7 +43,7 @@
 - [Hash Table](note/hash%20table.md)
 
 ### week 12
-- [Breadth-First Search]
+- [Breadth-First Search](note/Breadth-First%20Search.md)
 
 ### week 13 
 - [Depth-First Search](note/Depth-First%20Search.md)
