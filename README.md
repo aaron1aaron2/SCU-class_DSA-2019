@@ -19,34 +19,36 @@
 
 ### week 5
 - [Quick-Sort](note/Quick%20Sort.md)
-- [HW1:實作 Quick Sort](HW1/Quick%20Sort.ipynb)
-- [HW1: 流程圖](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/HW1/Quick%20Sort.html)
+- [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
 
 ### week 6
 - [Heap Sort](note/Heap%20sort.md)
 
 ### week 7
 - [Merge Sort](note/Merge%20Sort.md)
+- [HW2-merge_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Merge%20Sort.html)
+- [HW2-heap_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Heap%20Sort.html)
 
 ### week 8
 - [Binary Tree](note/Tree.md)
 
 ### week 9
 - [Binary Search Tree](note/Binary%20Search%20Tree.md)
-- [HW2-merge_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Merge%20Sort.html)
-- [HW2-heap_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Heap%20Sort.html)
+- [HW3-BST](https://nbviewer.jupyter.org/github/aaron1aaron2/my-learning-note/blob/master/HW3/BST_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E8%AA%AA%E6%98%8E.ipynb)
+
 ### week 10
 - Red Black Tree
-- [HW3-學習歷程](https://nbviewer.jupyter.org/github/aaron1aaron2/my-learning-note/blob/master/HW3/BST_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E8%AA%AA%E6%98%8E.ipynb)
 
 ### week 11 
 - [Hash Table](note/hash%20table.md)
+- [HW3-hash_table](HW4/hash_table_學習歷程.ipynb)
 
 ### week 12
 - [Breadth-First Search](note/Breadth-First%20Search.md)
 
 ### week 13 
 - [Depth-First Search](note/Depth-First%20Search.md)
+- [HW5-DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
 
 ### week 14
 - Minimum Spanning Tree
