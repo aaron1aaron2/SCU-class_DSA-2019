@@ -56,9 +56,6 @@
 ### week 15
 - Shortest Path
 
-### leetcode 
-- [leetcode 練習筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
-
 ### CS50
 - [CS50 筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/CS50)
 ---
