@@ -41,7 +41,7 @@
 
 ### week 11 
 - [Hash Table](note/hash%20table.md)
-- [HW3-hash_table](HW4/hash_table_學習歷程.ipynb)
+- [HW4-hash_table](HW4/hash_table_學習歷程.ipynb)
 
 ### week 12
 - [Breadth-First Search](note/Breadth-First%20Search.md)
