@@ -54,7 +54,7 @@
 - Minimum Spanning Tree
 
 ### week 15
-- Shortest Path
+- [Shortest Path - Dijkstra](note/Dijkstra.md)
 
 ### CS50
 - [CS50 筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/CS50)
