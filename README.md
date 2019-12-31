@@ -51,7 +51,7 @@
 - [HW5-DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
 
 ### week 14
-- Minimum Spanning Tree
+- [Minimum Spanning Tree - Kruskal](note/Kruskal.md)
 
 ### week 15
 - [Shortest Path - Dijkstra](note/Dijkstra.md)
