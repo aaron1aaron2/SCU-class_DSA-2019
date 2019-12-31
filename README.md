@@ -56,8 +56,6 @@
 ### week 15
 - [Shortest Path - Dijkstra](note/Dijkstra.md)
 
-### CS50
-- [CS50 筆記](https://github.com/aaron1aaron2/my-learning-note/tree/master/CS50)
 ---
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
