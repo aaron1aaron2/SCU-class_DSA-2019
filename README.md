@@ -57,7 +57,7 @@
 - [Shortest Path - Dijkstra](note/Dijkstra.md)
 
 ### leetcode
-- [](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
+- [code](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
 ---
 # About me
 > 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
