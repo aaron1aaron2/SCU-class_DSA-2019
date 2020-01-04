@@ -33,8 +33,7 @@
 
 ### 記憶體管理 (Memory management)
 <img src="https://miro.medium.com/max/2159/1*G43FVT5xJ1n1QDKVNZUxXQ.jpeg"  width="600" height="300">
-> 圖片擷取至: [What’s a Linked List, Anyway? [Part 1] | by Vaidehi Joshi
-](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+> 圖片擷取至: [What’s a Linked List, Anyway? Part 1 | by Vaidehi Joshi](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
 Ruby、JavaScript 和 Python屬於動態語言，所以我們不用花太多時間去思考，內存(記憶體)的配置。但是 **linked-List** 和 **Array** 最大的差別就是在記憶體上儲存的方式。 
 
