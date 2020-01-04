@@ -1,9 +1,7 @@
 # Having fun in leetcode
 ## 目錄
-- [Design-Linked-List]() [>> code ](Design-Linked-List.py)
+- [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
 ### 1. Design Linked List  
-> 題目:[LeetCode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
-
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
 * `next` : 指向下一個 node 的 pointer。
