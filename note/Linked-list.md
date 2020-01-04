@@ -24,7 +24,7 @@
 在這邊 Address 代表儲存位置，每個 Node 都有一個 Address，且會 Pointer 下個 Node 的 Address。所以在建構 **Linked list** 的時候，Node 的前後關系很重要。
 ### 線性的資料結構 (Linear data structures)
 <img src="https://miro.medium.com/max/2090/1*Xokk6XOjWyIGCBujkJsCzQ.jpeg"  width="600" height="300">
-> 圖片擷取至: [What’s a Linked List, Anyway? [Part 1] | by Vaidehi Joshi
+> 圖片擷取至: [What’s a Linked List, Anyway? Part 1 | by Vaidehi Joshi
 ](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
 **linked-List 它是屬於線性的資料結構**，如上圖所示，線性的資料結構就是透過有順序的 **節點** or **元素** 所構成，可以將其比如成跳房子遊戲，我麼需要按照一定的順序去遍歷所有的節點。相反的非線性結構就不需要按照順序去遍歷。
