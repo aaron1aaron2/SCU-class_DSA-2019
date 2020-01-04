@@ -1,4 +1,6 @@
 # Having fun in leetcode
+## 目錄
+- [Design-Linked-List]() [>> code ](Design-Linked-List.py)
 ### 1. Design Linked List  
 > 題目:[LeetCode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
@@ -53,4 +55,4 @@ def get_list(self):
 其他功能的建構就不講了，大多數是邏輯問題，但是我的程式在 leetcode 上 速度只贏6%的人，還有許多加強的空間。
 
 
->完整程式碼: [彥南的 Github](Leetcode/Design-Linked-List.py)
+
