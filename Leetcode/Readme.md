@@ -1,12 +1,12 @@
 # Having fun in leetcode
 ## 目錄
 - [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
-### 1. Design Linked List  
+## 1. Design Linked List  
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
 * `next` : 指向下一個 node 的 pointer。
 
-#### 需要建立的 function
+### 需要建立的 function
 1. `get(index)` : 輸入 ***index*** 可以取得在 linked-List 裡對應的 ***val***。
 1. `addAtHead(val)` : 將輸入的 ***val*** 新增在 linked-List 的第一個位置。
 1. `addAtTail(val)` : 將輸入的 ***val*** 新增在 linked-List 的最後一個位置。
@@ -17,7 +17,7 @@
         * 當 ***index*** 為負數，將 ***val*** 插在第一個位置。
 5. `deleteAtIndex(index)` : 如果 ***index*** 在 linked-List 裡是有效的，刪除對應的 ***val***。
 
-#### 我的想法
+### 我的想法
 > 要建立`兩個 class` 
 * 第一個: 當做節點(Node)，也就是每次呼叫他的時候，就相當於創立一個新的節點在 memory 裡面。可以看到每個 Node 包含 `self.val` (紀錄資料) 和 `self.next` (紀錄下一個Node)。
 ```python=
@@ -52,5 +52,20 @@ def get_list(self):
 ```
 其他功能的建構就不講了，大多數是邏輯問題，但是我的程式在 leetcode 上 速度只贏6%的人，還有許多加強的空間。
 
+## Set Mismatch
+> 題目: [Leetcode | Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
+The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in the set got duplicated to another number in the set, which results in repetition of one number and loss of another number.
+
+Given an array nums representing the data status of this set after the error. Your task is to firstly find the number occurs twice and then find the number that is missing. Return them in the form of an array.
+
+### Example
+* Input: nums = [1,2,2,4] 
+* Output: [2,3]
+
+### key point
+
+* 正常的 set: [1,2,3,4]
+* 異常的 set: [1,2,2,4]
+* 讓上面兩者比對，輸出 [2,3] --> [重複值,缺失值]
 
