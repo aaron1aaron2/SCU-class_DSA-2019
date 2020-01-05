@@ -1,9 +1,9 @@
 # Having fun in leetcode
 ## 目錄
 - [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
-- [645. Set Mismatch <E>](Readme.md#set-mismatch) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/set-mismatch/)  
-- [155. Min Stack <E>](Readme.md#min-Stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
-- [645. Set Mismatch <E>](Readme.md#set-mismatch) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/set-mismatch/) 
+- [645. Set Mismatch <Easy>](Readme.md#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
+- [155. Min Stack <Easy>](Readme.md#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
+- [232. Implement Queue using Stacks <Easy>](Readme.md#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 
 ## 1. Design Linked List  
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
@@ -81,5 +81,5 @@ Given an array nums representing the data status of this set after the error. Yo
 
 ## 4. Implement Queue using Stacks
 > 題目: [Leetcode | Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-### 4. key point
+### key point
 * 搞清楚題目要那些功能。
