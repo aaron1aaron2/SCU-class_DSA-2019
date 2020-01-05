@@ -85,7 +85,7 @@
 - [HW3: BST](HW3/BST_學習歷程與說明.ipynb)
 - [HW4: hash_table](HW4/hash_table_學習歷程.ipynb)
 - [HW5: DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
-- [HW6: Dijkstra & Kruskal(HW6/Dijkstra%20%26%20Kruskal_學習歷程與說明.ipynb)
+- [HW6: Dijkstra & ruskal](HW6/Dijkstra%20%26%20Kruskal_學習歷程與說明.ipynb)
 
 
 ## 課外學習
