@@ -80,11 +80,11 @@
 
 ## 課堂作業
 - [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
-- [HW2-merge_sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
-- [HW2-heap_sort](HW2/Heap%20Sort%20流程圖%26說明.ipynb)
-- [HW4-hash_table](HW4/hash_table_學習歷程.ipynb)
-- [HW5-DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
-- [HW3-BST](HW3/BST_學習歷程與說明.ipynb)
+- [HW2: merge_sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
+- [HW2: heap_sort](HW2/Heap%20Sort%20流程圖%26說明.ipynb)
+- [HW4: hash_table](HW4/hash_table_學習歷程.ipynb)
+- [HW5: DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
+- [HW3: BST](HW3/BST_學習歷程與說明.ipynb)
 
 ## 課外學習
 ### leetcode
