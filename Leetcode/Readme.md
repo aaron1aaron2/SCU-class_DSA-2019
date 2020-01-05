@@ -4,7 +4,9 @@
 - [645. Set Mismatch <Easy>](Readme.md#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
 - [155. Min Stack <Easy>](Readme.md#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
 - [232. Implement Queue using Stacks <Easy>](Readme.md#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
+- [147. Insertion Sort List <Medium>](Readme.md#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
 
+   
 ## 1. Design Linked List  
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
@@ -83,3 +85,25 @@ Given an array nums representing the data status of this set after the error. Yo
 > 題目: [Leetcode | Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 ### key point
 * 搞清楚題目要那些功能。
+
+## 5. Insertion Sort List
+> 題目: [ Leetcode | Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+
+Sort a linked list using insertion sort.
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif' weigh='500' height='200'>
+
+> A graphical example of insertion sort. The partial sorted list (black) initially contains only the first element in the list.
+With each iteration one element (red) is removed from the input data and inserted in-place into the sorted list
+
+Algorithm of Insertion Sort:
+
+- Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list.
+- At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
+- It repeats until no input elements remain.
+
+Example :
+- Input: 4->2->1->3
+- Output: 1->2->3->4
+
+
