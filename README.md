@@ -1,5 +1,5 @@
 # Welcome to My Learning Note 
-## 課程心得
+### 課程心得
 > 歡迎來到我演算法學習筆記! 以下純屬我個人想法...
 
 學演算法主要是你的思考如何解決問題的過程，程式碼不是最重要的，畢竟答案都查的到，程式碼只是實現想法的工具。
@@ -48,7 +48,6 @@
 
 ### week 5
 - [Quick-Sort](note/Quick%20Sort.md)
-- [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
 
 ### week 6
 - [Heap Sort](note/Heap%20sort.md)
@@ -85,7 +84,11 @@
 ### week 15
 - [Shortest Path - Dijkstra](note/Dijkstra.md)
 
+## 課堂作業
+- [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
+
+## 課外學習
 ### leetcode
 - [code](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
-
+### CS50
 
