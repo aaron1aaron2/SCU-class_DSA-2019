@@ -1,9 +1,12 @@
 # Welcome to My Learning Note 
-> 歡迎來到我演算法學習筆記! 
+## 課程心得
+> 歡迎來到我演算法學習筆記! 以下純屬我個人想法...
 
-學演算法主要是你的思考如何解決問題的過程，程式碼不是最重要的，畢竟答案都查的到，程式碼只是實現想法的工具。當然我的程式碼也是會參考別人的，但是我在看別人的解法前，都會嘗試的自己去思考去寫，就算你的解法不是最好的，但至少你有你的想法。
+學演算法主要是你的思考如何解決問題的過程，程式碼不是最重要的，畢竟答案都查的到，程式碼只是實現想法的工具。
+當然我的程式碼寫不出來也是會參考別人的，但是我在看別人的解法前，都會嘗試的自己去思考去寫，就算你的解法不是最好的，但至少你有自已的想法，這點是最重要的。
+參考別人的程式不是複製貼上，而是去了解它為何會這樣寫，這是對原創者的尊重。成為一個 CS 可能不是你的目標，但是你不能去排斥它，畢竟它是
 
-# 課堂筆記
+## 課堂筆記
 ### week 1
 - [github](note/Github.md)
 
@@ -26,8 +29,8 @@
 
 ### week 7
 - [Merge Sort](note/Merge%20Sort.md)
-- [HW2-merge_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Merge%20Sort.html)
-- [HW2-heap_sort](https://htmlpreview.github.io/?https://github.com/aaron1aaron2/my-learning-note/blob/master/html/Heap%20Sort.html)
+- [HW2-merge_sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
+- [HW2-heap_sort](HW2/Heap%20Sort%20流程圖%26說明.ipynb)
 
 ### week 8
 - [Binary Tree](note/Tree.md)
@@ -84,6 +87,3 @@
 * 每天給自己固定的時間學習。
 * **要記得你是最棒的，讀東吳不會比較差! 差的是你有沒有去做!!**
 
-### >>> 看看自己到底會甚麼...
-
-<img src="image/72302.jpg" height=650 weight=1200>
