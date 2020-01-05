@@ -5,7 +5,7 @@
 - [3. Min Stack (Easy)](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
 - [4. Implement Queue using Stacks (Easy)](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 - [5. Insertion Sort List (Medium)](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
-- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) [code_Heapsort](heapsort.py) | [problem]( https://leetcode.com/problems/sort-an-array/) 
+- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem]( https://leetcode.com/problems/sort-an-array/) 
 
    
 ## 1. Design Linked List  
