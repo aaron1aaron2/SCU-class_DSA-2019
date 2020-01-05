@@ -1,7 +1,7 @@
 # Having fun in leetcode
 ## 目錄
 - [1. Design Linked List <Medium>](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
-- [2. Set Mismatch <Easy>](#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
+- [2. Set Mismatch <Easy>](#2-set-mismatch) | code | [problem](https://leetcode.com/problems/set-mismatch/) 
 - [3. Min Stack <Easy>](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
 - [4. Implement Queue using Stacks <Easy>](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 - [5. Insertion Sort List <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
