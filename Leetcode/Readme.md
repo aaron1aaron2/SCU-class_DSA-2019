@@ -1,13 +1,14 @@
 # Having fun in leetcode
 ## 目錄
-- [707. Design Linked List <Medium>](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
-- [645. Set Mismatch <Easy>](#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
-- [155. Min Stack <Easy>](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
-- [232. Implement Queue using Stacks <Easy>](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
-- [147. Insertion Sort List <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
+- [1. Design Linked List <Medium>](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
+- [2. Set Mismatch <Easy>](#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
+- [3. Min Stack <Easy>](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
+- [4. Implement Queue using Stacks <Easy>](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
+- [5. Insertion Sort List <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
 
    
 ## 1. Design Linked List  
+> 題目: [Leetcode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
 * `next` : 指向下一個 node 的 pointer。
@@ -58,6 +59,8 @@ def get_list(self):
 ```
 其他功能的建構就不講了，大多數是邏輯問題，但是我的程式在 leetcode 上 速度只贏6%的人，還有許多加強的空間。
 
+[回目錄](#目錄)
+
 ## 2. Set Mismatch
 > 題目: [Leetcode | Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
@@ -75,16 +78,22 @@ Given an array nums representing the data status of this set after the error. Yo
 * 異常的 set: [1,2,2,4]
 * 讓上面兩者比對，輸出 [2,3] --> [重複值,缺失值]
 
+[回目錄](#目錄)
+
 ## 3. Min Stack
 > 題目: [Leetcode | Min Stack](https://leetcode.com/problems/min-stack/)
 ### key point
 * 高清楚頭尾，要怎麼對應 linked-List 的head 和方向。
 * 主要的是 getMin()的實現，需要想一下。
 
+[回目錄](#目錄)
+
 ## 4. Implement Queue using Stacks
 > 題目: [Leetcode | Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 ### key point
 * 搞清楚題目要那些功能。
+
+[回目錄](#目錄)
 
 ## 5. Insertion Sort List
 > 題目: [ Leetcode | Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
@@ -106,4 +115,4 @@ Example :
 - Input: 4->2->1->3
 - Output: 1->2->3->4
 
-
+[回目錄](#目錄)
