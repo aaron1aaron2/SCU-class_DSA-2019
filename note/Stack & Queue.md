@@ -59,14 +59,4 @@ stack.pop() #刪除最後一個(新插入的)element
 * [GeeksforGeeks | difference-between-stack-and-queue-data-structures](https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/)
 * [Medium | Data Structures: Introductions and Implementation with Python](https://medium.com/algorithms-and-leetcode/data-structures-introductions-and-implementation-with-python-1c9088f19420)
 * [Medium | A Gentle Introduction to Data Structures: How Queues Work](https://medium.com/free-code-camp/a-gentle-introduction-to-data-structures-how-queues-work-f8b871938e64)
-# 練習
-## Min Stack
-> 題目: [Leetcode | Min Stack](https://leetcode.com/problems/min-stack/)
-### key point
-* 高清楚頭尾，要怎麼對應 linked-List 的head 和方向。
-* 主要的是 getMin()的實現，需要想一下。
 
-## Implement Queue using Stacks
-> 題目: [Leetcode | Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-### key point
-* 搞清楚題目要那些功能。
