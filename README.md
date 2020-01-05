@@ -88,6 +88,6 @@
 
 ## 課外學習
 ### leetcode
-- [code](https://github.com/aaron1aaron2/my-learning-note/tree/master/leet%20code)
+- [code](L)
 ### CS50
 
