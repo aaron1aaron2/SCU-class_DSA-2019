@@ -87,7 +87,9 @@
 - [HW3: BST](HW3/BST_學習歷程與說明.ipynb)
 
 ## 課外學習
-### leetcode [go to folder](Leetcode)
+### leetcode 
+[go to folder](Leetcode)
 
-### CS50 [go to folder](CS50)
+### CS50 
+[go to folder](CS50)
 
