@@ -1,6 +1,7 @@
 # Having fun in leetcode
 ## 目錄
 - [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
+- [707. Design Linked List <Medium>](Readme.md #set-mismatch) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/set-mismatch/)  
 ## 1. Design Linked List  
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
