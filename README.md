@@ -6,9 +6,9 @@
 當然我的程式碼寫不出來也是會參考別人的，但是我在看別人的解法前，都會嘗試的自己去思考去寫，就算你的解法不是最好的，但至少你有自已的想法，這點是最重要的。
 參考別人的程式不是複製貼上，而是去了解它為何會這樣寫，這是對原創者的尊重。成為一個 CS 可能不是你的目標，但是你不能去排斥它，畢竟它是
 
----
 # About me
-> 大家好我是一個天真、可愛、善良的大學生! 大家都叫我**熊**
+> 大家好我是一個天真、可愛、善良的大學生!
+![](https://i.imgur.com/pFlGRnJ.png)
 
 ### **何彥南** (aaron)
 ![](image/bear.jpg)
@@ -54,29 +54,24 @@
 
 ### week 7
 - [Merge Sort](note/Merge%20Sort.md)
-- [HW2-merge_sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
-- [HW2-heap_sort](HW2/Heap%20Sort%20流程圖%26說明.ipynb)
 
 ### week 8
 - [Binary Tree](note/Tree.md)
 
 ### week 9
 - [Binary Search Tree](note/Binary%20Search%20Tree.md)
-- [HW3-BST](https://nbviewer.jupyter.org/github/aaron1aaron2/my-learning-note/blob/master/HW3/BST_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E8%AA%AA%E6%98%8E.ipynb)
 
 ### week 10
 - Red Black Tree
 
 ### week 11 
 - [Hash Table](note/hash%20table.md)
-- [HW4-hash_table](HW4/hash_table_學習歷程.ipynb)
 
 ### week 12
 - [Breadth-First Search](note/Breadth-First%20Search.md)
 
 ### week 13 
 - [Depth-First Search](note/Depth-First%20Search.md)
-- [HW5-DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
 
 ### week 14
 - [Minimum Spanning Tree - Kruskal](note/Kruskal.md)
@@ -86,6 +81,11 @@
 
 ## 課堂作業
 - [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
+- [HW2-merge_sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
+- [HW2-heap_sort](HW2/Heap%20Sort%20流程圖%26說明.ipynb)
+- [HW4-hash_table](HW4/hash_table_學習歷程.ipynb)
+- [HW5-DFS&BFS](HW5/DFS_學習歷程與說明.ipynb)
+- [HW3-BST](HW3/BST_學習歷程與說明.ipynb)
 
 ## 課外學習
 ### leetcode
