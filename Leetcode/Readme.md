@@ -5,6 +5,7 @@
 - [3. Min Stack <Easy>](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
 - [4. Implement Queue using Stacks <Easy>](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 - [5. Insertion Sort List <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
+- [6. Sort an Array <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem]( https://leetcode.com/problems/sort-an-array/) 
 
    
 ## 1. Design Linked List  
@@ -117,3 +118,23 @@ Example :
 - Output: 1->2->3->4
 
 [回目錄](#目錄)
+
+## 6. Sort an Array
+Given an array of integers nums, sort the array in ascending order.
+
+ 
+
+Example 1:
+
+Input: nums = [5,2,3,1]
+Output: [1,2,3,5]
+Example 2:
+
+Input: nums = [5,1,1,2,0,0]
+Output: [0,0,1,1,2,5]
+ 
+
+Constraints:
+
+1 <= nums.length <= 50000
+-50000 <= nums[i] <= 50000
