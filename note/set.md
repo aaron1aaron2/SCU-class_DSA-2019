@@ -43,20 +43,4 @@ a-b # 差集:{1, 3}
 * http://www2.csie.ntnu.edu.tw/~u91029/Set.html
 * https://codertw.com/%e7%a8%8b%e5%bc%8f%e8%aa%9e%e8%a8%80/425189/
 
-# 練習
-## Set Mismatch
-> 題目: [Leetcode | Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
-The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in the set got duplicated to another number in the set, which results in repetition of one number and loss of another number.
-
-Given an array nums representing the data status of this set after the error. Your task is to firstly find the number occurs twice and then find the number that is missing. Return them in the form of an array.
-
-### Example
-* Input: nums = [1,2,2,4] 
-* Output: [2,3]
-
-### key point
-
-* 正常的 set: [1,2,3,4]
-* 異常的 set: [1,2,2,4]
-* 讓上面兩者比對，輸出 [2,3] --> [重複值,缺失值]
