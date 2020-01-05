@@ -2,6 +2,7 @@
 ## 目錄
 - [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
 - [645. Set Mismatch <E>](Readme.md#set-mismatch) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/set-mismatch/)  
+
 ## 1. Design Linked List  
 設計一個屬於你的 linked-List。其中包含 `singly linked-List` & `doubly linked-List` 這邊我們先以 `singly linked-List` 做練習。 它包含兩個屬性: 
 * `val` : 當前 node 的值。
@@ -53,7 +54,7 @@ def get_list(self):
 ```
 其他功能的建構就不講了，大多數是邏輯問題，但是我的程式在 leetcode 上 速度只贏6%的人，還有許多加強的空間。
 
-## Set Mismatch
+## 2. Set Mismatch
 > 題目: [Leetcode | Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
 The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in the set got duplicated to another number in the set, which results in repetition of one number and loss of another number.
