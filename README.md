@@ -9,10 +9,10 @@
 # About me
 > 大家好我是一個天真、可愛、善良的大學生!
 
+### **何彥南** 
+
 <img src='https://i.imgur.com/pFlGRnJ.png' weight=300 height=200>
 
-### **何彥南** (aaron)
-![](image/bear.jpg)
 * 就讀於: Soochow University (東吳大學)
 * 主修: 巨量資料管理學系
 * 生日: 1998/11/26
