@@ -1,10 +1,10 @@
 # Having fun in leetcode
 ## 目錄
-- [707. Design Linked List <Medium>](Readme.md#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
-- [645. Set Mismatch <Easy>](Readme.md#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
-- [155. Min Stack <Easy>](Readme.md#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
-- [232. Implement Queue using Stacks <Easy>](Readme.md#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
-- [147. Insertion Sort List <Medium>](Readme.md#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
+- [707. Design Linked List <Medium>](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
+- [645. Set Mismatch <Easy>](#2-set-mismatch) | [code]() | [problem](https://leetcode.com/problems/set-mismatch/) 
+- [155. Min Stack <Easy>](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
+- [232. Implement Queue using Stacks <Easy>](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
+- [147. Insertion Sort List <Medium>](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
 
    
 ## 1. Design Linked List  
