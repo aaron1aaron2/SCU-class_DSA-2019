@@ -88,6 +88,6 @@
 
 ## 課外學習
 ### leetcode
-- [code](L)
+- [code](Leetcode)
 ### CS50
 
