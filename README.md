@@ -31,7 +31,7 @@
 - [Binary Search Tree](note/Binary%20Search%20Tree.md)
 
 ### week 10
-- Red Black Tree
+- [Red Black Tree](note/Red%20Black%20Tree.md)
 
 ### week 11 
 - [Hash Table](note/hash%20table.md)
