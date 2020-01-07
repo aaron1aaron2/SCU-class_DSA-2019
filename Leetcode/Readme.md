@@ -1,5 +1,5 @@
 # Having fun in leetcode
-這邊是我自己練習的 leetcode 題目，關於下面目錄:
+這邊是我自己練習的 leetcode 題目，程式碼與題目敘述，關於下面目錄:
 - 格式: 索引 | 練習 code | leetcode 網址
 
 ## 目錄
