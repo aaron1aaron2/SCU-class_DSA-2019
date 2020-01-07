@@ -11,7 +11,7 @@
 - [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem](https://leetcode.com/problems/sort-an-array/) 
 - [7. Univalued Binary Tree (Easy)](#7-univalued-binary-tree) | [code](965%23_Univalued%20Binary%20Tree_06170214.py) | [problem](https://leetcode.com/problems/univalued-binary-tree/) 
 - [8. Design HashSet (Easy)](#8-design-hashSet) | [code](705%23_Design%20HashSet_06170214.py) | [problem](https://leetcode.com/problems/design-hashset/) 
-- [9. Two Sum (Easy)](#9-two-sum) | [code]1%23_Two%20Sum_06170214.py) | [problem](https://leetcode.com/problems/two-sum/) 
+- [9. Two Sum (Easy)](#9-two-sum) | [code](1%23_Two%20Sum_06170214.py) | [problem](https://leetcode.com/problems/two-sum/) 
 
 ## 1. Design Linked List  
 > 題目: [Leetcode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
