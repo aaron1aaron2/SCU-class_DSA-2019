@@ -111,11 +111,11 @@
 
 > 語法2 -html，可調整大小。 (注意: 在 markdown 穿插使用html語法最好後面空一行，不然會跑版)
 ```  
-<img src='https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg' height=200 weight =200>
+<img src='圖片網址' height=200 weight =200>
 ```
 > 結果 
 
-<img src='https://github.com/aaron1aaron2/my-learning-note/blob/master/image/bear.jpg' height=200 weight =200>
+<img src='https://i.imgur.com/pFlGRnJ.png' height=200 weight =200>
 
 
 ---
