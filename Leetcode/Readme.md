@@ -8,9 +8,11 @@
 - [3. Min Stack (Easy)](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
 - [4. Implement Queue using Stacks (Easy)](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 - [5. Insertion Sort List (Medium)](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
-- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem]( https://leetcode.com/problems/sort-an-array/) 
-- [7. Univalued Binary Tree (Easy)](#7-univalued-binary-tree) | [code](965%23_Univalued%20Binary%20Tree_06170214.py) | [problem]( https://leetcode.com/problems/univalued-binary-tree/) 
-   
+- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem](https://leetcode.com/problems/sort-an-array/) 
+- [7. Univalued Binary Tree (Easy)](#7-univalued-binary-tree) | [code](965%23_Univalued%20Binary%20Tree_06170214.py) | [problem](https://leetcode.com/problems/univalued-binary-tree/) 
+- [8. Design HashSet (Easy)](#8-design-hashSet) | [code](705%23_Design%20HashSet_06170214.py) | [problem](https://leetcode.com/problems/design-hashset/) 
+- [9. Two Sum (Easy)](#9-two-sum) | [code]1%23_Two%20Sum_06170214.py) | [problem](https://leetcode.com/problems/two-sum/) 
+
 ## 1. Design Linked List  
 > 題目: [Leetcode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
@@ -209,5 +211,49 @@ Note:
 
 The number of nodes in the given tree will be in the range [1, 100].
 Each node's value will be an integer in the range [0, 99].
+
+[回目錄](#目錄)
+
+## 8. Design HashSet
+Design a HashSet without using any built-in hash table libraries.
+
+To be specific, your design should include these functions:
+
+add(value): Insert a value into the HashSet. 
+contains(value) : Return whether the value exists in the HashSet or not.
+remove(value): Remove a value in the HashSet. If the value does not exist in the HashSet, do nothing.
+
+Example:
+
+MyHashSet hashSet = new MyHashSet();
+hashSet.add(1);         
+hashSet.add(2);         
+hashSet.contains(1);    // returns true
+hashSet.contains(3);    // returns false (not found)
+hashSet.add(2);          
+hashSet.contains(2);    // returns true
+hashSet.remove(2);          
+hashSet.contains(2);    // returns false (already removed)
+
+Note:
+
+All values will be in the range of [0, 1000000].
+The number of operations will be in the range of [1, 10000].
+Please do not use the built-in HashSet library.
+
+
+[回目錄](#目錄)
+
+## 9. Two Sum 
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
 
 [回目錄](#目錄)
