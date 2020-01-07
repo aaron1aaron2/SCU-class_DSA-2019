@@ -1,4 +1,7 @@
 # Having fun in leetcode
+這邊是我自己練習的 leetcode 題目，關於下面目錄:
+- 格式: 索引 | 練習 code | leetcode 網址
+
 ## 目錄
 - [1. Design Linked List (Medium)](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
 - [2. Set Mismatch (Easy)](#2-set-mismatch) | code | [problem](https://leetcode.com/problems/set-mismatch/) 
