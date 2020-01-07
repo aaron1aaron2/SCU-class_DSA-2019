@@ -101,12 +101,3 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 * https://www.hackerearth.com/zh/practice/algorithms/sorting/heap-sort/tutorial/
 * https://www.studytonight.com/data-structures/heap-sort
 * https://www.youtube.com/watch?v=MtQL_ll5KhQ
-# 可用套件
-### 1. heapq
-> https://docs.python.org/zh-tw/3/library/heapq.html
-
-# 練習
-## Univalued Binary Tree
-A binary tree is univalued if every node in the tree has the same value.
-Return true if and only if the given tree is univalued.
-> 前往 >> [題目](https://leetcode.com/problems/univalued-binary-tree/)
