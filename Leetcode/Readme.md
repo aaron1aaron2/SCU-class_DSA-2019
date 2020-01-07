@@ -9,7 +9,7 @@
 - [4. Implement Queue using Stacks (Easy)](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
 - [5. Insertion Sort List (Medium)](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
 - [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem]( https://leetcode.com/problems/sort-an-array/) 
-
+- [7. Univalued Binary Tree (Easy)](#7-univalued-binary-tree) | [code_Quicksort](Quick%20Sort.py) | [problem]( https://leetcode.com/problems/univalued-binary-tree/) 
    
 ## 1. Design Linked List  
 > 題目: [Leetcode | Design Linked List](https://leetcode.com/problems/design-linked-list/)
@@ -183,5 +183,31 @@ Output: [0,0,1,1,2,5]
 
 1 <= nums.length <= 50000
 -50000 <= nums[i] <= 50000
+
+[回目錄](#目錄)
+
+## 7. Univalued Binary Tree
+A binary tree is univalued if every node in the tree has the same value.
+
+Return true if and only if the given tree is univalued.
+
+ 
+
+Example 1:
+
+
+Input: [1,1,1,1,1,null,1]
+Output: true
+Example 2:
+
+
+Input: [2,2,2,5,2]
+Output: false
+ 
+
+Note:
+
+The number of nodes in the given tree will be in the range [1, 100].
+Each node's value will be an integer in the range [0, 99].
 
 [回目錄](#目錄)
