@@ -3,12 +3,12 @@
 - 格式: 索引 | 練習 code | leetcode 網址
 
 ## 目錄
-- [1. Design Linked List (Medium)](#1-design-linked-list) | [code](Design%20Linked%20List.py) | [problem](https://leetcode.com/problems/design-linked-list/)
+- [1. Design Linked List (Medium)](#1-design-linked-list) | [code](707%23_Design%20Linked%20List_06170214.py) | [problem](https://leetcode.com/problems/design-linked-list/)
 - [2. Set Mismatch (Easy)](#2-set-mismatch) | [code](645%23_Set%20Mismatch_06170214.py) | [problem](https://leetcode.com/problems/set-mismatch/) 
-- [3. Min Stack (Easy)](#3-min-stack) | [code](Min%20Stack.py) | [problem](https://leetcode.com/problems/min-stack/) 
-- [4. Implement Queue using Stacks (Easy)](#4-implement-queue-using-stacks) | [code](Implement%20Queue%20using%20Stacks.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
-- [5. Insertion Sort List (Medium)](#5-insertion-sort-list) | [code](Insertion%20Sort%20List.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
-- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](Quick%20Sort.py) | [code_Heapsort](heapsort.py) | [problem](https://leetcode.com/problems/sort-an-array/) 
+- [3. Min Stack (Easy)](#3-min-stack) | [code](155%23_Min%20Stack_06170214.py) | [problem](https://leetcode.com/problems/min-stack/) 
+- [4. Implement Queue using Stacks (Easy)](#4-implement-queue-using-stacks) | [code](232%23_Implement%20Queue%20using%20Stacks_06170214.py) | [problem](https://leetcode.com/problems/implement-queue-using-stacks/) 
+- [5. Insertion Sort List (Medium)](#5-insertion-sort-list) | [code](147%23_Insertion%20Sort%20List_06170214.py) | [problem](https://leetcode.com/problems/insertion-sort-list) 
+- [6. Sort an Array (Medium)](#6-sort-an-array) | [code_Quicksort](912#_Sort%20an%20Array_06170214.py) | [code_Heapsort](heapsort.py) | [problem](https://leetcode.com/problems/sort-an-array/) 
 - [7. Univalued Binary Tree (Easy)](#7-univalued-binary-tree) | [code](965%23_Univalued%20Binary%20Tree_06170214.py) | [problem](https://leetcode.com/problems/univalued-binary-tree/) 
 - [8. Design HashSet (Easy)](#8-design-hashSet) | [code](705%23_Design%20HashSet_06170214.py) | [problem](https://leetcode.com/problems/design-hashset/) 
 - [9. Two Sum (Easy)](#9-two-sum) | [code](1%23_Two%20Sum_06170214.py) | [problem](https://leetcode.com/problems/two-sum/) 
