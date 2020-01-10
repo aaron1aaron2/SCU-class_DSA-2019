@@ -6,6 +6,6 @@
 - [2018](https://cs50.harvard.edu/college/2018/fall/weeks/) -->最新完整
 - [2019](https://cs50.harvard.edu/college/) --> 還在更新
 
-### >>> 影片的部分以2013的課程為主，學習筆記的部分位以2018的課程 Note 做延伸。
+### >>> 影片的部分以2013的課程為主。
 
 - [week0](https://github.com/aaron1aaron2/my-learning-note/blob/master/CS50/Week%200.md)
