@@ -95,6 +95,7 @@
 
 - We can write *pseudocode*, an informal syntax that is just a more specific version of English (or other human language) that represents our algorithm:
 
+```
         1  Pick up phone book
         2  Open to middle of phone book
         3  Look at page
@@ -108,6 +109,7 @@
         11     Go back to line 3
         12 Else
         13     Quit
+```
 
 - Some of these lines start with verbs, or actions. We’ll start calling these *functions*:
 
