@@ -1,6 +1,6 @@
 # Depth-First Search 
 ###### tags: `演算法` `資料結構`
-{%hackmd @rpyapp/theme %}
+
 ## 介紹
 >DFS 它屬於 recursive(遞迴) 的演算法。他主要的的想法就是先往某個方向走到底也就是 Depth-First 的意思，然後折返再去看他的分支，就像是 BST 的走訪。
 他會 backtracking(回朔)，也就是走到底再往回找未被標記的節點，在走到底，這概念跟 BST 很像
