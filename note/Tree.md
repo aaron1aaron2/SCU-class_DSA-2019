@@ -1,6 +1,5 @@
 # Tree
 ###### tags: `演算法` `資料結構`
-{%hackmd @rpyapp/theme %}
 
 
 ## 定義
