@@ -8,3 +8,21 @@
 ## 課程筆記
 > 這個部分，我是以哈佛提供的筆記為基礎，去做筆記。
 
+### week0
+- [video](https://youtu.be/jjqgP9dpD1k)
+
+### week 1
+
+### week 2
+
+### week 3
+
+### week 4
+
+### week 5
+
+### week 6
+
+### week 7
+
+### week 8
