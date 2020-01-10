@@ -1,13 +1,13 @@
 # **Lecture 0**
 ###### tags: `cs50`
 > 來源: https://cs50.harvard.edu/x/2020/notes/0/#lecture-0
-- [Welcome](https://cs50.harvard.edu/x/2020/notes/0/#welcome)
-- [What is computer science?](https://cs50.harvard.edu/x/2020/notes/0/#what-is-computer-science)
-- [Binary](https://cs50.harvard.edu/x/2020/notes/0/#binary)
-- [Representing data](https://cs50.harvard.edu/x/2020/notes/0/#representing-data)
-- [Algorithms](https://cs50.harvard.edu/x/2020/notes/0/#algorithms)
-- [Pseudocode](https://cs50.harvard.edu/x/2020/notes/0/#pseudocode)
-- [Scratch](https://cs50.harvard.edu/x/2020/notes/0/#scratch)
+- [Welcome](#welcome)
+- [What is computer science?](#what-is-computer-science)
+- [Binary](#binary)
+- [Representing data](#representing-data)
+- [Algorithms](#algorithms)
+- [Pseudocode](#pseudocode)
+- [Scratch](#scratch)
 
 ## **Welcome**
 
