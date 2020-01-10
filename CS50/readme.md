@@ -12,17 +12,26 @@
 - [video](https://youtu.be/jjqgP9dpD1k)
 
 ### week 1
+- [video](https://youtu.be/e9Eds2Rc_x8)
 
 ### week 2
+- [video](https://youtu.be/8PrOp9t0PyQ)
 
 ### week 3
+- [video](https://youtu.be/fykrlqbV9wM)
 
 ### week 4
+- [video](https://youtu.be/cF6YkH-8vFk)
 
 ### week 5
+- [video](https://youtu.be/4IrUAqYKjIA)
 
 ### week 6
+- [video](https://youtu.be/fL308_-Kbt0)
 
 ### week 7
+- [video](https://youtu.be/u5pDdEKnbKA)
 
 ### week 8
+- [video](https://youtu.be/cy5A-dXU-bg)
+
