@@ -22,7 +22,7 @@
 - Computer science is fundamentally problem-solving.
 - We can think of problem-solving as the process of taking some input (details about our problem) and generate some output (the solution to our problem). The “black box” in the middle is computer science.
 
-    ![https://cs50.harvard.edu/x/2020/notes/0/input_output.png](https://cs50.harvard.edu/x/2020/notes/0/input_output.png)
+    ![](https://i.imgur.com/PqmZBTl.png)
 
 - We need a way to represent inputs, such that we can store and work with information in a standard way.
 
@@ -60,15 +60,15 @@
     - When we receive an emoji, our computer is actually just receiving a decimal number like `128514` (`11111011000000010` in binary, if you can read that more easily) that it then maps to the image of the emoji.
 - An image, too, is comprised of many smaller square dots, or pixels, each of which can be represented in binary with a system called RGB, with values for red, green, and blue light in each pixel. By mixing together different amounts of each color, we can represent millions of colors:
 
-    ![https://cs50.harvard.edu/x/2020/notes/0/rgb.png](https://cs50.harvard.edu/x/2020/notes/0/rgb.png)
+    ![](https://i.imgur.com/ptVmGDe.png)
 
     - The red, green, and blue values are combined to get a light yellow color:
 
-        ![https://cs50.harvard.edu/x/2020/notes/0/rgb_combined.png](https://cs50.harvard.edu/x/2020/notes/0/rgb_combined.png)
-
+        ![](https://i.imgur.com/AnjO11V.png)
+        
 - We can see this in an emoji if we zoom in far enough:
 
-    ![https://cs50.harvard.edu/x/2020/notes/0/emoji_zoomed.png](https://cs50.harvard.edu/x/2020/notes/0/emoji_zoomed.png)
+    ![](https://i.imgur.com/scMMU74.png)
 
 - And computer programs know, based on the context of its code, whether the binary numbers should be interpreted as numbers, or letters, or pixels.
 - And videos are just many, many images displayed one after another, at some number of frames per second. Music, too, can be represented by the notes being played, their duration, and their volume.
@@ -77,7 +77,7 @@
 
 - So now we can represent inputs and outputs. The black box earlier will contain *algorithms*, step-by-step instructions for solving a problem:
 
-    ![https://cs50.harvard.edu/x/2020/notes/0/algorithms.png](https://cs50.harvard.edu/x/2020/notes/0/algorithms.png)
+    ![](https://i.imgur.com/x2LYUx0.png)
 
 - Let’s say we wanted to find a friend, Mike Smith, in a phone book.
     - We could start by flipping through the book, one page at a time, until we find Mike Smith or reach the end of the book.
@@ -85,7 +85,7 @@
     - But an even more efficient way would be opening the phone book to the middle, decide whether Mike will be in the left half or right half of the book (because the book is alphabetized), and immediately throw away half of the problem. We can repeat this, dividing the problem in half each time. With 1024 pages to start, we would only need 10 steps of dividing in half before we have just one page remaining to check.
 - In fact, we can represent the efficiency of each of those algorithms with a chart:
 
-    ![https://cs50.harvard.edu/x/2020/notes/0/running_time.png](https://cs50.harvard.edu/x/2020/notes/0/running_time.png)
+    ![](https://i.imgur.com/SJgjxkP.png)
 
     - Our first solution, one page at a time, is like the red line: our time to solve increases linearly as the size of the problem increases.
     - The second solution, two pages at a time, is like the yellow line: our slope is less steep, but still linear.
