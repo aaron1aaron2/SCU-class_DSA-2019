@@ -6,34 +6,43 @@
 - [2020](https://cs50.harvard.edu/x/2020/) (我上的)
 
 ## 課程
-> 這個部分，我是以哈佛提供的筆記為基礎，去做筆記。
+> 這個部分，我是以哈佛提供的筆記為基礎，去做中文筆記。
 
 ### week 0 - Scratch 
 - [video](https://youtu.be/jjqgP9dpD1k)
+- [node](Lecture0.md)(未完成)
 
 ### week 1 - C
 - [video](https://youtu.be/e9Eds2Rc_x8)
+- [node](Lecture1.md)(未完成)
 
 ### week 2 - Arrays
 - [video](https://youtu.be/8PrOp9t0PyQ)
+- [node](Lecture2.md)(未完成)
 
 ### week 3 - Algorithms
 - [video](https://youtu.be/fykrlqbV9wM)
 - [Comparison Sorting Algorithms](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+- [node](Lecture3.md)(未完成)
 
 ### week 4 - Memory
 - [video](https://youtu.be/cF6YkH-8vFk)
+- [node](Lecture4.md)(未完成)
 
 ### week 5 - Data Structures
 - [video](https://youtu.be/4IrUAqYKjIA)
+- [node](Lecture5.md)(未完成)
 
 ### week 6 - Python 
 - [video](https://youtu.be/fL308_-Kbt0)
+- [node](Lecture6.md)(未完成)
 
 ### week 7 - SQL
 - [video](https://youtu.be/u5pDdEKnbKA)
+- [node](Lecture7.md)(未完成)
 
 ### week 8 - Information
 - [video](https://youtu.be/cy5A-dXU-bg)
+- [node](Lecture8.md)(未完成)
 
