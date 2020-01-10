@@ -17,8 +17,10 @@
 ### week 2
 - [video](https://youtu.be/8PrOp9t0PyQ)
 
-### week 3
+### week 3 - Algorithms
 - [video](https://youtu.be/fykrlqbV9wM)
+- [Comparison Sorting Algorithms](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+- [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 
 ### week 4
 - [video](https://youtu.be/cF6YkH-8vFk)
