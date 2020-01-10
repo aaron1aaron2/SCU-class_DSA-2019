@@ -1,6 +1,6 @@
 # Welcome to My Learning Note 
 ## About me
-> 大家好我是一個天真、可愛、善良的大學生!
+> 我是一個天真、可愛、善良的大學生~
 
 ### **何彥南** 
 
