@@ -1,5 +1,18 @@
 # Welcome to My Learning Note 
+## About me
+> 大家好我是一個天真、可愛、善良的大學生!
 
+### **何彥南** 
+
+<img src='https://i.imgur.com/pFlGRnJ.png' weight=300 height=200>
+
+* 就讀於: Soochow University (東吳大學)
+* 主修: 巨量資料管理學系
+* 生日: 1998/11/26
+* 星座: 射手座
+* 興趣: 打羽球
+* 綽號: 荷花、熊、187
+* 擅長程式: python 
 > 歡迎來到我演算法學習筆記!
 ## 課堂筆記
 ### week 1
@@ -81,18 +94,3 @@
 * 中文的資料有限，找尋英文資料，不去排斥英文，你會有驚喜。
 * 每天給自己固定的時間學習。
 * **要記得你是最棒的~**
-
-# About me
-> 大家好我是一個天真、可愛、善良的大學生!
-
-## **何彥南** 
-
-<img src='https://i.imgur.com/pFlGRnJ.png' weight=300 height=200>
-
-* 就讀於: Soochow University (東吳大學)
-* 主修: 巨量資料管理學系
-* 生日: 1998/11/26
-* 星座: 射手座
-* 興趣: 打羽球
-* 綽號: 荷花、熊、187
-* 擅長程式: python 
