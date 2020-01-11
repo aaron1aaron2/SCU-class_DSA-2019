@@ -1,4 +1,7 @@
 # Welcome to My Learning Note 
+> 歡迎來到我演算法學習筆記!
+- [About me](#About-me)
+
 ## About me
 > 我是一個天真、可愛、善良的大學生~
 
@@ -13,7 +16,11 @@
 * 興趣: 打羽球
 * 綽號: 荷花、熊、187
 * 擅長程式: python 
-> 歡迎來到我演算法學習筆記!
+
+## 學習資源
+- [各校資訊培訓相關資源彙整](https://github.com/goodjack/awesome-cs-training) >> 彙整許多學習資源，其中蠻多校內培訓講意還不錯。
+- [完整的演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/) >> 師範大學某位認真的人整理的筆記，雖然有些有錯，但是講的淺顯易懂且該有的都有。
+
 ## 課堂筆記
 ### week 1
 - [github](note/Github.md)
@@ -39,7 +46,7 @@
 
 ### week 8
 - [Binary Tree](note/Tree.md)
-
+ 
 ### week 9
 - [Binary Search Tree](note/Binary%20Search%20Tree.md)
 
