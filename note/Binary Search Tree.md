@@ -80,7 +80,6 @@ Now that we understand the principles, the benefits, and the basic components of
 The API for a BST consists of the following: Insert, Contains, Get Min, Get Max, Remove Node, Check if Full, Is Balanced, and the types of Search — Depth First (preOrder, inOrder, postOrder), Breadth First Search, and lastly Get Height. That’s a big API, just take it one section at a time.
 # 參考資料
 - [geeksforgeeks | Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
-- [freecodecamp](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/SyRJk_cjr)
 - [techopedia](https://www.techopedia.com/definition/6282/binary-search-tree-bst)
 - video
     - [Binary Tree and Binary Search Tree in Data Structure](https://www.youtube.com/watch?time_continue=424&v=7vw2iIdqHlM)
