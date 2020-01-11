@@ -1,4 +1,4 @@
-# Welcome to My Learning Note 
+# Welcome to My algorithms & data-structures Learning Note 
 > 歡迎來到我演算法學習筆記!
 ## contents
 - [About me](#About-me)
