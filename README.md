@@ -104,7 +104,7 @@
 - 課程回顧
 
 ### Week 17
-- [blockchain sharing]
+- 區塊鏈實作分享
   - [簡大為作品 Demo](https://youtu.be/RqTTfm0vF4c)
   - [陳偉傑作品 Demo](https://youtu.be/Ri3o0ZqYBmQ)
   - [陳佳淳作品 Demo](https://youtu.be/DQT6R-27bDY)
