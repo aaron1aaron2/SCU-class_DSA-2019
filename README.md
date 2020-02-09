@@ -1,5 +1,26 @@
 # My algorithms & data-structures Learning Note 
-> 歡迎來到我演算法學習筆記!
+歡迎來到我演算法學習筆記!下面我租略介紹一下關於資料結構與演算法
+
+### 資料結構 (data structure)
+在電腦科學中，資料結構是電腦中儲存、組織資料的方式。
+
+- 常見的資料結構
+  - 堆疊（Stack）
+  - 佇列（Queue）
+  - 陣列（Array）
+  - 連結串列（Linked List）
+  - 樹（Tree）
+  - 圖（Graph）
+  - 堆積（Heap）
+  - 雜湊表（Hash table）
+  
+### 演算法 (algorithms)
+
+### 時間複雜度 (Time complexity)
+[big-0 時間複雜度表](https://www.bigocheatsheet.com/)
+
+### 空間複雜度 (Space complexity)
+
 ## contents
 - [About me](#About-me)
 - [學習資源](#學習資源)
