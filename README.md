@@ -100,6 +100,15 @@
 ### week 15
 - [Shortest Path - Dijkstra](note/Dijkstra.md)
 
+### week 16
+- 課程回顧
+
+### Week 17
+- [blockchain sharing]
+  - [簡大為作品 Demo](https://youtu.be/RqTTfm0vF4c)
+  - [陳偉傑作品 Demo](https://youtu.be/Ri3o0ZqYBmQ)
+  - [陳佳淳作品 Demo](https://youtu.be/DQT6R-27bDY)
+  
 ## 課堂作業
 - [HW1: Quick Sort](HW1/Quick%20Sort.ipynb)
 - [HW2: merge sort](HW2/Merge%20Sort%20流程圖%26說明.ipynb)
