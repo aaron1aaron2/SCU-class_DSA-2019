@@ -1,5 +1,5 @@
 # My algorithms & data-structures Learning Note 
-歡迎來到我演算法學習筆記!下面我租略介紹一下關於資料結構與演算法
+> 歡迎來到我演算法學習筆記!下面我租略介紹一下關於資料結構與演算法
 
 ### 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式。
