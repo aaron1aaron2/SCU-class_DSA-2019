@@ -16,20 +16,20 @@
 
 ### 1. 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式，資料的組織與架構會大大影響資料處理效能，這也是我們學習資料結構的重點所在。
+
 - 常見的資料結構
-  - 堆疊（Stack）
-  - 佇列（Queue）
-  - 陣列（Array）
-  - 連結串列（Linked List）
-  - 樹（Tree）
-  - 圖（Graph）
-  - 堆積（Heap）
-  - 雜湊表（Hash table）
+  - 堆疊（Stack）>> Depth-First Search、返回(undo)
+  - 佇列（Queue）>> Bread-First Search、走訪(Traversal)
+  - 陣列（Array） >> Insertion Sort、Quick Sort、Merge Sort
+  - 連結串列（Linked List）>> 區塊鏈(Blockchain)
+  - 樹（Tree） >> Binary Search Tree、Red Black Tree
+  - 圖（Graph） >> Breadth-First Search、Depth-First Search、Minimum Spanning Tree - Kruskal、Shortest Path - Dijkstra
+  - 堆積（Heap） >> Heap Sort
+  - 雜湊表（Hash table）>> 區塊鏈(Blockchain)、加密(encrypt)、Hash Table
   
-#### Refer to
-- [geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
 
 ### 2. 演算法 (algorithms)
+我的想法是演算法起源於問題，因為有問題需要透過電腦去解決，所以人們就會定義一個步驟和邏輯達到目的，這就是演算法。許多演算法都是透過某個資料結構為基礎去產生的，針對不同問題會有不同的演算法，但是資料結構是相通的，所以資料結構很重要一好好學。針對同個問題也會有不同的演算法，一般來說新的演算法通常是最出色的，但是在同個問題不同情境下，各演算法的表現又會不一樣。這就要你們去慢慢理解了。
 
 ### 3. 時間複雜度 (Time complexity)
 
