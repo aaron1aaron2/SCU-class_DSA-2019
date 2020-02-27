@@ -17,7 +17,7 @@
 ### 1. 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式，資料的組織與架構會大大影響資料處理效能，這也是我們學習資料結構的重點所在。
 
-- 常見的資料結構
+- 常見的資料結構與應用
   - 堆疊（Stack）>> Depth-First Search、返回(undo)
   - 佇列（Queue）>> Bread-First Search、走訪(Traversal)
   - 陣列（Array） >> Insertion Sort、Quick Sort、Merge Sort
@@ -32,10 +32,7 @@
 我的想法是演算法起源於問題，因為有問題需要透過電腦去解決，所以人們就會定義一個步驟和邏輯達到目的，這就是演算法。許多演算法都是透過某個資料結構為基礎去產生的，針對不同問題會有不同的演算法，但是資料結構是相通的，所以資料結構很重要一好好學。針對同個問題也會有不同的演算法，一般來說新的演算法通常是最出色的，但是在同個問題不同情境下，各演算法的表現又會不一樣。這就要你們去慢慢理解了。
 
 ### 3. 時間複雜度 (Time complexity)
-
-#### Refer to
-- [big-0 時間複雜度表](https://www.bigocheatsheet.com/)
-- [the-basics-of-big-o-notation] https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2
+時間複雜度是比較演算法好不好的一個標準，使用時間會隨著資料量變多而增加。這邊我簡單的說一下它的概念，時間複雜度 `O(n)` 表示，它是趨近於無限的狀況做比較。`O(n)` 代表說我花的時間與資料量是 1:1 的，而 `n^2` 代表花的時間是資料量的平方倍。各種常見演算法的時間複雜度可以看這個 >> [big-0 時間複雜度表](https://www.bigocheatsheet.com/)，關於 `big-o` 可以看這裡 >> [the basics of big-o notation](https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2)。
 
 ### 4. 空間複雜度 (Space complexity)
 
