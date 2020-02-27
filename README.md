@@ -1,7 +1,7 @@
 # My algorithms & data-structures Learning Note 
 > 歡迎來到 2019_三下_資料結構與演算法 的學習筆記
 
-## contents
+## Contents
 - [學演算法不可不知道](#學演算法不可不知道)
 - [About me](#About-me)
 - [學習資源](#學習資源)
@@ -13,6 +13,7 @@
 ## 學演算法不可不知道
 這些專有名詞很重要，在學習這堂課前可以先去查查看，還有提醒一下，請不要只查中文，英文的資源更豐富。
 下面我租略介紹一下關於資料結構與演算法的基本觀念...
+
 ### 1. 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式，資料的組織與架構會大大影響資料處理效能，這也是我們學習資料結構的重點所在。
 - 常見的資料結構
@@ -26,7 +27,7 @@
   - 雜湊表（Hash table）
   
 #### Refer to
--[geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
+- [geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
 
 ### 2. 演算法 (algorithms)
 
@@ -34,7 +35,7 @@
 
 #### Refer to
 - [big-0 時間複雜度表](https://www.bigocheatsheet.com/)
-- []https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2
+- [the-basics-of-big-o-notation] https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2
 
 ### 4. 空間複雜度 (Space complexity)
 
