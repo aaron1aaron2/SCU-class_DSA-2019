@@ -13,12 +13,16 @@
   - 圖（Graph）
   - 堆積（Heap）
   - 雜湊表（Hash table）
-  
+#### Refer to
+-[geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
+
 ### 演算法 (algorithms)
 
 ### 時間複雜度 (Time complexity)
-[big-0 時間複雜度表](https://www.bigocheatsheet.com/)
 
+#### Refer to
+- [big-0 時間複雜度表](https://www.bigocheatsheet.com/)
+- []https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2
 ### 空間複雜度 (Space complexity)
 
 ## contents
