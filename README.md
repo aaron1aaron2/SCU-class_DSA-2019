@@ -17,15 +17,15 @@
 ### 1. 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式，資料的組織與架構會大大影響資料處理效能，這也是我們學習資料結構的重點所在。
 
-- 常見的資料結構與應用
-  - 堆疊（Stack）>> Depth-First Search、返回(undo)
-  - 佇列（Queue）>> Bread-First Search、走訪(Traversal)
-  - 陣列（Array） >> Insertion Sort、Quick Sort、Merge Sort
-  - 連結串列（Linked List）>> 區塊鏈(Blockchain)
-  - 樹（Tree） >> Binary Search Tree、Red Black Tree
-  - 圖（Graph） >> Breadth-First Search、Depth-First Search、Minimum Spanning Tree - Kruskal、Shortest Path - Dijkstra
-  - 堆積（Heap） >> Heap Sort
-  - 雜湊表（Hash table）>> 區塊鏈(Blockchain)、加密(encrypt)、Hash Table
+- 常見的資料結構
+  - 堆疊（Stack）★★
+  - 佇列（Queue）★★
+  - 陣列（Array）★
+  - 連結串列（Linked List）★★★★★
+  - 樹（Tree） ★★★★★
+  - 圖（Graph） ★★★★★
+  - 堆積（Heap） ★
+  - 雜湊表（Hash table）★★★★
   
 
 ### 2. 演算法 (algorithms)
