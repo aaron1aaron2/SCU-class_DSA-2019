@@ -63,7 +63,7 @@
   - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
   - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
   - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
-  - [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) >
+  - [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) 
   - [*Tutorialspoint*](https://www.tutorialspoint.com/data_structures_algorithms/) 
 - 相關課程資源
   - **台灣大學/清華大學** - 資訊之芽
