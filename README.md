@@ -60,6 +60,7 @@
 ## 學習資源
 - [*非關語言: 常見程式演算*](https://openhome.cc/Gossip/AlgorithmGossip/) >> 包含一些程式演算法的練習實作題目，對新手蠻友善的。
 - 演算法資源
+  - [*The Algorithms - Python*](https://github.com/TheAlgorithms/Python) >> 有許多演算法 python 的範例程式可以參考。
   - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
   - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
   - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
