@@ -31,8 +31,12 @@
 ### 2. 演算法 (algorithms)
 我的想法是演算法起源於問題，因為有問題需要透過電腦去解決，所以人們就會定義一個步驟和邏輯達到目的，這就是演算法。許多演算法都是透過某個資料結構為基礎去產生的，針對不同問題會有不同的演算法，但是資料結構是相通的，所以資料結構很重要一好好學。針對同個問題也會有不同的演算法，一般來說新的演算法通常是最出色的，但是在同個問題不同情境下，各演算法的表現又會不一樣。這就要你們去慢慢理解了。
 
+> 這邊有更詳細的解釋 >> [初學者學演算法｜談什麼是演算法和時間複雜度-medium](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E8%AB%87%E4%BB%80%E9%BA%BC%E6%98%AF%E6%BC%94%E7%AE%97%E6%B3%95%E5%92%8C%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6-b1f6908e4b80)
+
 ### 3. 時間複雜度 (Time complexity)
-一個程式的時間複雜度是指完全地執行程式所需的計算機時間。時間複雜度是比較演算法好不好的一個標準，使用時間會隨著資料量變多而增加。這邊我簡單的說一下它的概念，時間複雜度 `O(n)` 表示，它是趨近於無限的狀況做比較。`O(n)` 代表說我花的時間與資料量是 1:1 的，而 `n^2` 代表花的時間是資料量的平方倍。各種常見演算法的時間複雜度可以看這個 >> [big-0 時間複雜度表](https://www.bigocheatsheet.com/)，關於 `big-o` 可以看這裡 >> [the basics of big-o notation](https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2)。
+一個程式的時間複雜度是指完全地執行程式所需的計算機時間。時間複雜度是比較演算法好不好的一個標準，使用時間會隨著資料量變多而增加。這邊我簡單的說一下它的概念，時間複雜度 `O(n)` 表示，它是趨近於無限的狀況做比較。`O(n)` 代表說我花的時間與資料量是 1:1 的，而 `n^2` 代表花的時間是資料量的平方倍。
+> - 各種常見演算法的時間複雜度可以看這個 >> [big-0 時間複雜度表](https://www.bigocheatsheet.com/)
+> - 關於 `big-o` 可以看這裡 >> [the basics of big-o notation](https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2)。
 
 ### 4. 空間複雜度 (Space complexity)
 空間複雜度的意思就是你的演算法在處理問題的整過程，最大需要儲存多少暫存。假如說我今天進來的是長度為 n 的 list，而我從頭到尾都只用這個 list 做處理，空間複雜度就是 n ，也稱作 [原地演算法-In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)。如果用了額外的 list (長度為n) 去存取，就是 2n。
@@ -54,13 +58,54 @@
 * 擅長程式: python 
 
 ## 學習資源
-- [*各校資訊培訓相關資源彙整*](https://github.com/goodjack/awesome-cs-training) >> 彙整許多學習資源，其中蠻多校內培訓講意還不錯。
-- [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
-- 英文資源 
+- [*非關語言: 常見程式演算*](https://openhome.cc/Gossip/AlgorithmGossip/) >> 包含一些程式演算法的練習實作題目，對新手蠻友善的。
+- 演算法資源
+  - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
   - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
   - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
   - [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) >
   - [*Tutorialspoint*](https://www.tutorialspoint.com/data_structures_algorithms/) 
+- 相關課程資源
+  - **台灣大學/清華大學** - 資訊之芽
+
+    - 演算法班
+
+      - [*2019 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2019/)
+      - [*2018 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2018/)
+      - [*2017 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2017/)
+      - [*2016 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2016/)
+
+    - C/C++ 班
+
+      - [*2019 課程講義*](https://tw-csie-sprout.github.io/c2019/#!slides.md)
+      - [*2018 課程講義*](https://tw-csie-sprout.github.io/c2018/#!slides.md)
+      - [*2017 課程講義*](https://tw-csie-sprout.github.io/c2017/#!slides.md)
+      - [*2016 課程講義*](https://tw-csie-sprout.github.io/c2016/#!slides.md)
+      - [*2015 課程講義*](http://tw-csie-sprout.github.io/programming15spring/#!slide.md)
+
+    - Python 班
+
+      - [*2019 課程講義*](https://tw-csie-sprout.github.io/py2019/#!slides.md)
+      - [*2018 課程講義*](https://tw-csie-sprout.github.io/py2018/#!slides.md)
+      - [*2017 課程講義*](https://tw-csie-sprout.github.io/py2017/#!slides.md)
+      - [*2016 課程講義*](https://tw-csie-sprout.github.io/py2016/#!slides.md)
+
+  - **交通大學** - PCCA 競技程式訓練
+    - [*2019 冬令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2019/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
+    - [*2018 夏令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-summer-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
+    - [*2018 冬令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
+    - [*2017 冬令營課程講義*](https://sites.google.com/view/nctupcca/2017-%E4%BA%A4%E5%A4%A7%E7%AB%B6%E6%8A%80%E7%A8%8B%E5%BC%8F%E8%A8%93%E7%B7%B4%E5%86%AC%E4%BB%A4%E7%87%9F/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
+    - [*2016 夏令營課程講義*](https://sites.google.com/site/pccanctu/2016-summer-camp/sources)
+    - [*2016 冬令營課程講義*](https://sites.google.com/site/pccanctu/2016-winter-camp/resources)
+
+  - **交通大學** - PSPT 課程
+
+    - [*2014 PSPT 課程講義*](https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8)
+
+  - **成功大學** - ACM 課程
+
+    - [*2019 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2019/)
+    - [*2018 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2018/)
   
 ## 課堂筆記
 ### week 1
