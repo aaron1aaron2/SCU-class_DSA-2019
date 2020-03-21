@@ -17,15 +17,15 @@
 ### 1. 資料結構 (data structure)
 在電腦科學中，資料結構是電腦中儲存、組織資料的方式，資料的組織與架構會大大影響資料處理效能，這也是我們學習資料結構的重點所在。
 
-- 常見的資料結構 (星星代表重要程度，個人主觀)
-  - 堆疊（Stack）★★
-  - 佇列（Queue）★★
-  - 陣列（Array）★
-  - 連結串列（Linked List）★★★★★
-  - 樹（Tree） ★★★★★
-  - 圖（Graph） ★★★★
-  - 堆積（Heap） ★
-  - 雜湊表（Hash table）★★★★
+- 常見的資料結構 
+  - 堆疊（Stack）
+  - 佇列（Queue）
+  - 陣列（Array）
+  - 連結串列（Linked List）
+  - 樹（Tree） 
+  - 圖（Graph） 
+  - 堆積（Heap）
+  - 雜湊表（Hash table）
   
 
 ### 2. 演算法 (algorithms)
@@ -66,7 +66,10 @@
   - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
   - [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) 
   - [*Tutorialspoint*](https://www.tutorialspoint.com/data_structures_algorithms/) 
-- 相關課程資源
+  
+- [關於 computer science 的國外大學課程](https://github.com/prakhar1989/awesome-courses#algorithms) >> 給英文程度好，肯努力的人看
+
+- 相關課程資源(國內)
   - **台灣大學/清華大學** - 資訊之芽
 
     - 演算法班
@@ -107,7 +110,7 @@
 
     - [*2019 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2019/)
     - [*2018 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2018/)
-  
+
 ## 課堂筆記
 ### week 1
 - [github](note/Github.md)
