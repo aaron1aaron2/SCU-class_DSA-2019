@@ -41,7 +41,7 @@
 ### 4. 空間複雜度 (Space complexity)
 空間複雜度的意思就是你的演算法在處理問題的整過程，最大需要儲存多少暫存。假如說我今天進來的是長度為 n 的 list，而我從頭到尾都只用這個 list 做處理，空間複雜度就是 n ，也稱作 [原地演算法-In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)。如果用了額外的 list (長度為n) 去存取，就是 2n。
 
-
+---
 ## About me
 > 我是一個天真、可愛、善良的大學生~
 
@@ -57,22 +57,29 @@
 * 綽號: 荷花、熊、187
 * 擅長程式: python 
 
+---
 ## 學習資源
 - [*非關語言: 常見程式演算*](https://openhome.cc/Gossip/AlgorithmGossip/) >> 包含一些程式演算法的練習實作題目，對新手蠻友善的。
-- 演算法資源
-  - [*The Algorithms - Python*](https://github.com/TheAlgorithms/Python) >> 有許多演算法 python 的範例程式可以參考。
-  - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
-  - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
-  - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
-  - [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) 
-  - [*Tutorialspoint*](https://www.tutorialspoint.com/data_structures_algorithms/) 
-  
+### 英文資源
+#### 演算法教學
+- [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
+- [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
+- [*Studytonight*](https://www.studytonight.com/data-structures/introduction-to-data-structures) 
+- [*Tutorialspoint*](https://www.tutorialspoint.com/data_structures_algorithms/) 
+#### 演算法範例程式碼
+- [*The Algorithms - Python*](https://github.com/TheAlgorithms/Python) >> 有許多演算法 python 的範例程式可以參考。
+#### 課程資源
 - [關於 computer science 的國外大學課程](https://github.com/prakhar1989/awesome-courses#algorithms) >> 給英文程度好，肯努力的人看
 
+---
+### 中文資源
+#### 演算法教學
+- [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
 - 相關課程資源(國內)
-  - **台灣大學/清華大學** - 資訊之芽
 
-    - 演算法班
+#### 課程資源
+- **台灣大學/清華大學** - 資訊之芽
+   - 演算法班
 
       - [*2019 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2019/)
       - [*2018 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2018/)
