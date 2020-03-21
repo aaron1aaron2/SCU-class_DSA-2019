@@ -1,14 +1,14 @@
 # My algorithms & data-structures Learning Note 
-> 歡迎來到 2019_三下_資料結構與演算法 的學習筆記
+> 歡迎來到 **何彥南** 的`資料結構與演算法(2019-三下)` 學習筆記
 
 ## Contents
-- [不可不知道的事](#不可不知道的事)
-- [About me](#About-me)
-- [學習資源](#學習資源)
-- [課堂筆記](#課堂筆記)
-- [課堂作業](#課堂作業)
-- [課外學習](#課外學習)
-- [課程心得](#課程心得)
+- [*不可不知道的事*](#不可不知道的事)
+- [*About me*](#About-me)
+- [*學習資源*](#學習資源)
+- [*課堂筆記*](#課堂筆記)
+- [*課堂作業*](#課堂作業)
+- [*課外學習*](#課外學習)
+- [*課程心得*](#課程心得)
 
 ## 不可不知道的事
 這些專有名詞很重要，在學習這堂課前可以先去查查看，還有提醒一下，請不要只查中文，英文的資源更豐富。
@@ -31,15 +31,15 @@
 ### 2. 演算法 (algorithms)
 我的想法是演算法起源於問題，因為有問題需要透過電腦去解決，所以人們就會定義一個步驟和邏輯達到目的，這就是演算法。許多演算法都是透過某個資料結構為基礎去產生的，針對不同問題會有不同的演算法，但是資料結構是相通的，所以資料結構很重要一好好學。針對同個問題也會有不同的演算法，一般來說新的演算法通常是最出色的，但是在同個問題不同情境下，各演算法的表現又會不一樣。這就要你們去慢慢理解了。
 
-> 這邊有更詳細的解釋 >> [初學者學演算法｜談什麼是演算法和時間複雜度-medium](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E8%AB%87%E4%BB%80%E9%BA%BC%E6%98%AF%E6%BC%94%E7%AE%97%E6%B3%95%E5%92%8C%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6-b1f6908e4b80)
+> 這邊有更詳細的解釋 >> [*初學者學演算法｜談什麼是演算法和時間複雜度-medium*](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E8%AB%87%E4%BB%80%E9%BA%BC%E6%98%AF%E6%BC%94%E7%AE%97%E6%B3%95%E5%92%8C%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6-b1f6908e4b80)
 
 ### 3. 時間複雜度 (Time complexity)
 一個程式的時間複雜度是指完全地執行程式所需的計算機時間。時間複雜度是比較演算法好不好的一個標準，使用時間會隨著資料量變多而增加。這邊我簡單的說一下它的概念，時間複雜度 `O(n)` 表示，它是趨近於無限的狀況做比較。`O(n)` 代表說我花的時間與資料量是 1:1 的，而 `n^2` 代表花的時間是資料量的平方倍。
-> - 各種常見演算法的時間複雜度可以看這個 >> [big-0 時間複雜度表](https://www.bigocheatsheet.com/)
-> - 關於 `big-o` 可以看這裡 >> [the basics of big-o notation](https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2)。
+> - 各種常見演算法的時間複雜度可以看這個 >> [*big-0 時間複雜度表*](https://www.bigocheatsheet.com/)
+> - 關於 `big-o` 可以看這裡 >> [*the basics of big-o notation*](https://medium.com/better-programming/the-basics-of-big-o-notation-e67228e549d2)。
 
 ### 4. 空間複雜度 (Space complexity)
-空間複雜度的意思就是你的演算法在處理問題的整過程，最大需要儲存多少暫存。假如說我今天進來的是長度為 n 的 list，而我從頭到尾都只用這個 list 做處理，空間複雜度就是 n ，也稱作 [原地演算法-In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)。如果用了額外的 list (長度為n) 去存取，就是 2n。
+空間複雜度的意思就是你的演算法在處理問題的整過程，最大需要儲存多少暫存。假如說我今天進來的是長度為 n 的 list，而我從頭到尾都只用這個 list 做處理，空間複雜度就是 n ，也稱作 [*原地演算法-In-place algorithm*](https://en.wikipedia.org/wiki/In-place_algorithm)。如果用了額外的 list (長度為n) 去存取，就是 2n。
 
 ---
 ## About me
@@ -69,7 +69,7 @@
 #### 演算法範例程式碼
 - [*The Algorithms - Python*](https://github.com/TheAlgorithms/Python) >> 有許多演算法 python 的範例程式可以參考。
 #### 課程資源
-- [關於 computer science 的國外大學課程](https://github.com/prakhar1989/awesome-courses#algorithms) >> 給英文程度好，肯努力的人看
+- [*關於 computer science 的國外大學課程*](https://github.com/prakhar1989/awesome-courses#algorithms) >> 給英文程度好，肯努力的人看
 
 ---
 ### 2. 中文資源
