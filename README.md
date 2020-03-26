@@ -59,7 +59,6 @@
 
 ---
 ## 學習資源
-- [*非關語言: 常見程式演算*](https://openhome.cc/Gossip/AlgorithmGossip/) >> 包含一些程式演算法的練習實作題目，對新手蠻友善的。
 ### 1. 英文資源
 #### 演算法教學
 - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
@@ -75,7 +74,7 @@
 ### 2. 中文資源
 #### 演算法教學
 - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
-- 相關課程資源(國內)
+- [*Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试*](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md#%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86) >> 想去 google 看這篇竟對了
 
 #### 課程資源
 - **台灣大學/清華大學** - 資訊之芽
