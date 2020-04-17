@@ -60,6 +60,10 @@
 ---
 ## 學習資源
 ### 1. 英文資源
+#### python 教學
+- [Learning Python: From Zero to Hero](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
+- [W3 school](https://www.w3schools.com/python/default.asp)
+- [Datacamp](https://www.datacamp.com/) (要付費)
 #### 演算法教學
 - [*Geeksforgeeks*](https://www.geeksforgeeks.org/) >> 最推薦，每個部份皆包含影片，整理完整，除了演算法和資料結構外還有許多其他 CS 學習資源。
 - [*Hackerearth*](https://www.hackerearth.com/zh/practice/algorithms/searching/linear-search/tutorial/) 
