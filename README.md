@@ -77,7 +77,7 @@
 ---
 ### 2. 中文資源
 #### 演算法教學
-- [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 某位認真的人整理的筆記，雖然有部分有寫錯，但是講的淺顯易懂且該有的都有。
+- [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 感覺有點老舊，但是講的淺顯易懂且該有的都有。
 - [*Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试*](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md#%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86) >> 想去 google 看這篇竟對了，包含很多演算法。
 
 #### 課程資源
