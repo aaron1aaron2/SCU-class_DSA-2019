@@ -80,6 +80,9 @@
 - [*完整的演算法筆記*](http://www.csie.ntnu.edu.tw/~u91029/) >> 感覺有點老舊，但是講的淺顯易懂且該有的都有。
 - [*Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试*](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md#%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86) >> 想去 google 看這篇竟對了，包含很多演算法。
 
+#### Markdown 語法在 github 上
+- [*mastering-markdown*](https://guides.github.com/features/mastering-markdown/)
+ 
 #### 課程資源
 - **台灣大學/清華大學** - 資訊之芽
    - 演算法班
