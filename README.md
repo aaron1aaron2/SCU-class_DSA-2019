@@ -82,44 +82,6 @@
 
 #### Markdown 語法在 github 上
 - [*mastering-markdown*](https://guides.github.com/features/mastering-markdown/)
- 
-#### 課程資源
-- **台灣大學/清華大學** - 資訊之芽
-   - 演算法班
-
-      - [*2019 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2019/)
-      - [*2018 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2018/)
-      - [*2017 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2017/)
-      - [*2016 課程講義*](https://www.csie.ntu.edu.tw/~sprout/algo2016/)
-
-    - C/C++ 班
-
-      - [*2019 課程講義*](https://tw-csie-sprout.github.io/c2019/#!slides.md)
-      - [*2018 課程講義*](https://tw-csie-sprout.github.io/c2018/#!slides.md)
-      - [*2017 課程講義*](https://tw-csie-sprout.github.io/c2017/#!slides.md)
-      - [*2016 課程講義*](https://tw-csie-sprout.github.io/c2016/#!slides.md)
-      - [*2015 課程講義*](http://tw-csie-sprout.github.io/programming15spring/#!slide.md)
-
-    - Python 班
-
-      - [*2019 課程講義*](https://tw-csie-sprout.github.io/py2019/#!slides.md)
-      - [*2018 課程講義*](https://tw-csie-sprout.github.io/py2018/#!slides.md)
-      - [*2017 課程講義*](https://tw-csie-sprout.github.io/py2017/#!slides.md)
-      - [*2016 課程講義*](https://tw-csie-sprout.github.io/py2016/#!slides.md)
-
-- **交通大學** - PCCA 競技程式訓練
-  - [*2019 冬令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2019/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
-  - [*2018 夏令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-summer-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
-  - [*2018 冬令營課程講義*](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
-  - [*2017 冬令營課程講義*](https://sites.google.com/view/nctupcca/2017-%E4%BA%A4%E5%A4%A7%E7%AB%B6%E6%8A%80%E7%A8%8B%E5%BC%8F%E8%A8%93%E7%B7%B4%E5%86%AC%E4%BB%A4%E7%87%9F/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
-  - [*2016 夏令營課程講義*](https://sites.google.com/site/pccanctu/2016-summer-camp/sources)
-  - [*2016 冬令營課程講義*](https://sites.google.com/site/pccanctu/2016-winter-camp/resources)
-
-- **交通大學** - PSPT 課程
-  - [*2014 PSPT 課程講義*](https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8)
-- **成功大學** - ACM 課程
-  - [*2019 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2019/)
-   - [*2018 Spring NCKU ACM Training Courses*](https://nckuacm.github.io/2018/)
 
 ## 課堂筆記
 ### week 1
